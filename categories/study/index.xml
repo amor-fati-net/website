@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>study on Something like an oasis in this dry world</title>
-    <link>http://amor-fati.net/categories/study/</link>
+    <link>https://amor-fati.net/categories/study/</link>
     <description>Recent content in study on Something like an oasis in this dry world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
     <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
-    <lastBuildDate>Mon, 18 Nov 2019 11:40:22 +0900</lastBuildDate><atom:link href="http://amor-fati.net/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2019 11:40:22 +0900</lastBuildDate><atom:link href="https://amor-fati.net/categories/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ものごとには型がある</title>
-      <link>http://amor-fati.net/archives/everything-is-gone/</link>
+      <link>https://amor-fati.net/archives/everything-is-gone/</link>
       <pubDate>Mon, 18 Nov 2019 11:40:22 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/everything-is-gone/</guid>
+      <guid>https://amor-fati.net/archives/everything-is-gone/</guid>
       <description>一般論はどこでも読めるだろうから、研究について書いてみたい。
 型を知ること。
 よい研究とは何かを知ること。だと思う。でも、よい研究って何だろうな。科学を営む上で、まず予想を立てるものだと思う。その予想を検証したとき、研究したことになる。つまり研究とは、予測して検証すること。付け加えるなら、今まで誰もしたことがない内容について検証すること。予測は、ほかの誰かがすでに考えていてもいいと思う。
@@ -29,10 +29,10 @@
     
     <item>
       <title>マグノンの勉強</title>
-      <link>http://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link>
+      <link>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link>
       <pubDate>Sat, 15 Oct 2011 23:04:49 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid>
+      <guid>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid>
       <description>研究について、その日に進んだところをちょっと書いていこう。
 マグノンの取り扱いを理解した。と言っても、本当にホルシュタイン・プリマコフ変換(Holstein-Primakoff transformation)を理解すれば、マグノンを扱えるようになる。
 参考にした部分とかは明日あげることにする。</description>

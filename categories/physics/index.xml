@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>physics on Something like an oasis in this dry world</title>
-    <link>http://amor-fati.net/categories/physics/</link>
+    <link>https://amor-fati.net/categories/physics/</link>
     <description>Recent content in physics on Something like an oasis in this dry world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
     <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
-    <lastBuildDate>Mon, 18 Nov 2019 11:40:22 +0900</lastBuildDate><atom:link href="http://amor-fati.net/categories/physics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2019 11:40:22 +0900</lastBuildDate><atom:link href="https://amor-fati.net/categories/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ものごとには型がある</title>
-      <link>http://amor-fati.net/archives/everything-is-gone/</link>
+      <link>https://amor-fati.net/archives/everything-is-gone/</link>
       <pubDate>Mon, 18 Nov 2019 11:40:22 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/everything-is-gone/</guid>
+      <guid>https://amor-fati.net/archives/everything-is-gone/</guid>
       <description>一般論はどこでも読めるだろうから、研究について書いてみたい。
 型を知ること。
 よい研究とは何かを知ること。だと思う。でも、よい研究って何だろうな。科学を営む上で、まず予想を立てるものだと思う。その予想を検証したとき、研究したことになる。つまり研究とは、予測して検証すること。付け加えるなら、今まで誰もしたことがない内容について検証すること。予測は、ほかの誰かがすでに考えていてもいいと思う。
@@ -29,10 +29,10 @@
     
     <item>
       <title>節約する</title>
-      <link>http://amor-fati.net/archives/save-money/</link>
+      <link>https://amor-fati.net/archives/save-money/</link>
       <pubDate>Fri, 11 Jan 2019 00:39:25 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/save-money/</guid>
+      <guid>https://amor-fati.net/archives/save-money/</guid>
       <description>職場の食堂のご飯は安い．500円以下でそれなりの量が食べられる．すごい．ただ営業時間が短くて，お昼は営業開始すぐに行かないと料理の味がどんどん落ちていく．お昼の営業終了の少し前に行くと，揚げ物は冷えて硬くなっているし，お味噌汁は底の方に残ったものだし，煮物は煮えすぎている．出来立てはだいたい何でも美味しい．たまに変なメニューがあるけど．
 だからか知らないけれど，普段の昼ご飯の時間帯が異なる人たちが食堂のご飯を評価すると大きくバラつきが出る．（もちろんだいたい遅くに行く人たちの食堂に対する評価は低い傾向にある．）
 残念ながら，夜のメニューは「イマイチ」という評価で皆一致する．ほとんどの人は夜は自宅や職場の外で食べるから縮小営業は仕方ないし，メニューにバリエーションを増やせないのも仕方ない．分かる．しかしもう少しどうにかならないものか．まぁ安さには代えられない．
@@ -42,10 +42,10 @@
     
     <item>
       <title>外積の覚えやすい書き方</title>
-      <link>http://amor-fati.net/archives/scalar-triple-product/</link>
+      <link>https://amor-fati.net/archives/scalar-triple-product/</link>
       <pubDate>Thu, 03 May 2012 23:05:34 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/scalar-triple-product/</guid>
+      <guid>https://amor-fati.net/archives/scalar-triple-product/</guid>
       <description>ベクトルのスカラー三重積で，おもしろい書き方があるのを知ったのでここに書いておこう．まずベクトルの外積$$ \mathbf{B} \times \mathbf{C} $$の定義として行列式を用いた
 [ \mathbf{B} \times \mathbf{C} = \mathrm{det} \left| \begin{matrix} \hat{\mathbf{x}} &amp;amp; \hat{\mathbf{y}} &amp;amp; \hat{\mathbf{z}} \ B_x &amp;amp; B_y &amp;amp; B_z \ C_x &amp;amp; C_y &amp;amp; C_z \end{matrix} \right| ]
 という書き方がある．ベクトル$$ \mathbf{A} $$を
@@ -56,10 +56,10 @@
     
     <item>
       <title>エネルギー平衡方程式とポインティングベクトル</title>
-      <link>http://amor-fati.net/archives/the-energy-balance-equation/</link>
+      <link>https://amor-fati.net/archives/the-energy-balance-equation/</link>
       <pubDate>Fri, 02 Dec 2011 01:23:18 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/the-energy-balance-equation/</guid>
+      <guid>https://amor-fati.net/archives/the-energy-balance-equation/</guid>
       <description>エネルギー平衡方程式というのがある． [ \frac{\mathrm{d} u(\mathbf{r},t)}{\mathrm{d} t} + \mathbf{\nabla} \cdot \mathbf{S}(\mathbf{r}, t) = - \varphi(\mathbf{r}, t) \tag{1} ] ( u(\mathbf{r},t) )は電磁場のエネルギー密度で， [ u(\mathbf{r},t) = \frac{1}{2} \epsilon_0 E^2 (\mathbf{r}, t) + \frac{1}{2 \mu_0} B^2 (\mathbf{r}, t) ] ( \mathbf{S}(\mathbf{r}, t) )はエネルギー流束密度で， [ \mathbf{S} (\mathbf{r}, t) = \frac{1}{\mu_0} \mathbf{E}(\mathbf{r}, t) \times \mathbf{B}(\mathbf{r}, t)] ( \varphi(\mathbf{r}, t) )は一般化されたジュール熱（単位体積当たり） [ \varphi(\mathbf{r}, t)=\mathbf{J}(\mathbf{r}, t)\cdot\mathbf{E}(\mathbf{r}, t)]
 英語では energy balance equation である．個人的には日本語の「平衡」は物理では equilibrium になると早とちりしていた．つり合いという意味でも平衡と言うのだった．
 この式は，連続の方程式 [ \frac{\mathrm{d} u(\mathbf{r},t)}{\mathrm{d} t} + \mathbf{\nabla} \cdot \mathbf{S}(\mathbf{r}, t) = 0 \tag{2} ] の拡張になっている．これは電磁場のエネルギー密度が保存するという式．電荷が保存されるという電荷密度に対する連続の方程式 [ \frac{\mathrm{d} \rho(\mathbf{r},t)}{\mathrm{d} t} + \mathbf{\nabla} \cdot \mathbf{j}(\mathbf{r}, t) = 0 ] を思い出すとイメージしやすい．電荷は絶対量として減ったり増えたりせず，ただどこかに移動するのみであるという意味．その移動する量が電流密度であるということ． 話を戻してエネルギー密度に対する連続の方程式と，始めのエネルギー平衡方程式とを見比べると，ジュール熱が発生しないというのだから，エネルギーは熱に変わらずに保存されるということ．逆に言えばジュール熱が発生する場合にも適応できるものがエネルギー平衡方程式ということになる．</description>
@@ -67,10 +67,10 @@
     
     <item>
       <title>テイラー展開のカンドコロ</title>
-      <link>http://amor-fati.net/archives/taylor-series/</link>
+      <link>https://amor-fati.net/archives/taylor-series/</link>
       <pubDate>Wed, 09 Nov 2011 05:04:40 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/taylor-series/</guid>
+      <guid>https://amor-fati.net/archives/taylor-series/</guid>
       <description>古典力学，統計力学や電磁気学，量子力学などでは近似するためにテイラー展開を使うことが間々ある．どうも混乱してしまう学生が少なからずいる模様．何に気を付けておくべきか，間違えやすいところは何処か分かっていれば，むやみに不安がる必要もなくなると思う．
 そこで近似するときに気を付けておくべきポイントを２つ紹介しておこう．
 1. 何が小さい量なのか？ ¶ 「原点近傍の電気双極子（ ( \pm q ) の電荷が ( d ) だけ離れているとする）のつくる電場は十分離れた位置 ( r ) では」などと言って ( r \gg d ) とする．このとき，何が微少量かと言えば，( d / r \ll 1 ) から分かるように ( d / r ) なのである．( d )が微小量だと言うのは間違いであることに注意してほしい．( d )自体はどんな大きさでも良いのである．決して小さくない値，たとえば( d = 1 [{\rm m}] )であっても，( r = 10^{10} [{\rm m}] )なら文句無く( d / r \ll 1 )なのである．何かに対して小さいとか大きいとか言えても，それ自体には大きいも小さいもないということ．また，( d \ll 1 )という書き方も気持ち悪いと感じられるようになってもらいたい．( d ) は距離の次元を持つのに対して，( 1 )は単なる数でしかない．単位がないのである．これでは，その( 1 ) が1メートルなのか，1キロメートルなのか，はたまた1ナノメートルなのか定まらない．( d / r \ll 1 )と表記すれば，それは( d )と( r)とが比べられていて，同じ次元の大小関係になっているのである．</description>
@@ -78,10 +78,10 @@
     
     <item>
       <title>「円筒」には円柱の意味があるらしい</title>
-      <link>http://amor-fati.net/archives/cylinder-or-cylinder/</link>
+      <link>https://amor-fati.net/archives/cylinder-or-cylinder/</link>
       <pubDate>Fri, 04 Nov 2011 00:35:08 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/cylinder-or-cylinder/</guid>
+      <guid>https://amor-fati.net/archives/cylinder-or-cylinder/</guid>
       <description>日本語で「円筒」と言うと，普通は中身が空洞になっているものだろう．きっと日本人ならそう思う．だって「筒」自体には中空であることが定義に含まれているのだし．
 ところが「円筒」と辞書 ((辞書と言っても，デジタル大辞泉．国語辞典や広辞苑で調べてみるとまた違うかも？))で調べてみると，
 まるい筒。 ⇒円柱2 とある．第一義は確かに中身が空洞らしい．けれど意味の二つ目には「円柱」の定義を参照しろとなっている．「円柱」の項を見てみるとこんなことが書いてある．
@@ -93,10 +93,10 @@
     
     <item>
       <title>マグノンの勉強</title>
-      <link>http://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link>
+      <link>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link>
       <pubDate>Sat, 15 Oct 2011 23:04:49 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid>
+      <guid>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid>
       <description>研究について、その日に進んだところをちょっと書いていこう。
 マグノンの取り扱いを理解した。と言っても、本当にホルシュタイン・プリマコフ変換(Holstein-Primakoff transformation)を理解すれば、マグノンを扱えるようになる。
 参考にした部分とかは明日あげることにする。</description>
@@ -104,10 +104,10 @@
     
     <item>
       <title>ラグランジュの未定乗数法の極値問題</title>
-      <link>http://amor-fati.net/archives/lagrange-multipliers-method/</link>
+      <link>https://amor-fati.net/archives/lagrange-multipliers-method/</link>
       <pubDate>Fri, 17 Jun 2011 22:00:02 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/lagrange-multipliers-method/</guid>
+      <guid>https://amor-fati.net/archives/lagrange-multipliers-method/</guid>
       <description>極値をとることは分かるけれど、それが最大なのか最小なのか。例えば統計力学において、エントロピーが最大になるような確率分布について。統計力学の教科書は、だいたいが極値をとる分布を求めているだけだ。その点で確かに最大になっているかを確かめていない。これでは不十分ではないのか。
 気になる場合は、実際に最大になっているかを確かめればよい。それが一番手っ取り早い確認方法だ。だがわざわざ確認しなくても物理的に考えれば最大となっていることは分かるので、だいたいの教科書では極値をとる分布を求めているだけにとどめている。というのも、エントロピーがその分布で最小になるなんてことはあり得ない（物理的におかしい）。エントロピーは必ずゼロ以上で、つまり最低はゼロだから。そんなわけで、不十分というわけではないだろう ((そういう理由で教科書は最大になっているかをわざわざ確かめていないのだと理解しているなら))
 あとから調べたら『物理のための応用数学』にも同じことが書いてあった。</description>
@@ -115,10 +115,10 @@
     
     <item>
       <title>定量性について — 程度の差こそあれど同じか？</title>
-      <link>http://amor-fati.net/archives/measure-quantitatively/</link>
+      <link>https://amor-fati.net/archives/measure-quantitatively/</link>
       <pubDate>Mon, 06 Jul 2009 01:03:26 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/measure-quantitatively/</guid>
+      <guid>https://amor-fati.net/archives/measure-quantitatively/</guid>
       <description>物事を定量的に扱うこと。
 自然科学がここまで成功したのは、これに尽きると思う。 定量的に扱うために、科学は実験に再現性を要求した。裏を返せば、再現性がないと定量的に扱うことができない。ちなみに再現性とは、同じ条件下では何度同じ実験をしても同じ結果が得られるということ。
 「程度の差こそあれ、同じ」と言う。もしもその「程度の差」が１と１万くらいの差があったら、同じと言えるだろうかーーというのが定量的に扱うということだ。

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diary on Something like an oasis in this dry world</title>
-    <link>http://amor-fati.net/categories/diary/</link>
+    <link>https://amor-fati.net/categories/diary/</link>
     <description>Recent content in diary on Something like an oasis in this dry world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
     <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
-    <lastBuildDate>Mon, 02 Jan 2023 13:18:23 +0900</lastBuildDate><atom:link href="http://amor-fati.net/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 13:18:23 +0900</lastBuildDate><atom:link href="https://amor-fati.net/categories/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ひとには役割があるのかもしれない</title>
-      <link>http://amor-fati.net/archives/role/</link>
+      <link>https://amor-fati.net/archives/role/</link>
       <pubDate>Mon, 02 Jan 2023 13:18:23 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/role/</guid>
+      <guid>https://amor-fati.net/archives/role/</guid>
       <description>新しい年が来ました．新年が明けて，久しぶりに何か書こうという気持ちになりました．去年はたくさんのライフイベントがあり，激動の年になりました．大人の階段を登った感じがすごくしています．
 ひとには，役割があるのかもしれない．そう思うときがある．
 自分の人生では自分が主役だけど，他人の人生にとっては自分は脇役なのだ．脇役として登場するからには，何かしらの役割があることになる．役割がなければ登場すらできない．そう思うと，自分の脇役としての役割は何なのかが気になってくる．
@@ -29,10 +29,10 @@
     
     <item>
       <title>音楽を愉しむ</title>
-      <link>http://amor-fati.net/archives/enjoy-music/</link>
+      <link>https://amor-fati.net/archives/enjoy-music/</link>
       <pubDate>Mon, 16 Dec 2019 01:48:58 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/enjoy-music/</guid>
+      <guid>https://amor-fati.net/archives/enjoy-music/</guid>
       <description>「音楽を愉しむ」と一口に言っても，3つくらい愉しみ方があるように思う．それは「楽器の音色を愉しむ」「歌手の声色を愉しむ」「歌詞を愉しむ」なんじゃないかと思う．
 前者2つは音を愉しむのに対して，最後は音に乗った意味を愉しむ．
 その中でぼくは，歌い手の声に表情が表れている曲が好きなんだと気付いた．
@@ -41,10 +41,10 @@
     
     <item>
       <title>何をするか何をしないか</title>
-      <link>http://amor-fati.net/archives/to-do-and-not-to-do/</link>
+      <link>https://amor-fati.net/archives/to-do-and-not-to-do/</link>
       <pubDate>Tue, 16 Apr 2019 20:50:03 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/to-do-and-not-to-do/</guid>
+      <guid>https://amor-fati.net/archives/to-do-and-not-to-do/</guid>
       <description>不確定要素が増えると自分にとってストレスになることを理解した。いくつかの予定が確定しないまま、その兼ね合いまで考えないといけない状況になっていた。思考のリソースが割かれるイメージ。2つの不確定要素が絡まると、それぞれが独立にあった場合に消費されるリソース以上にリソースが消費される感じだった。
 「早い段階で行動に移せば良かった」というのはいつものこと。どんどん予定を確定させていくべきだった。なかなかこの感覚に慣れない。あんまり予定を詰めすぎるのは良くないというのも学習したのだけど。
 さてどうしたものか（と考えている合間に行動に移すべきである）。</description>
@@ -52,10 +52,10 @@
     
     <item>
       <title>出張ざんまい</title>
-      <link>http://amor-fati.net/archives/many-trips/</link>
+      <link>https://amor-fati.net/archives/many-trips/</link>
       <pubDate>Wed, 20 Mar 2019 10:15:22 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/many-trips/</guid>
+      <guid>https://amor-fati.net/archives/many-trips/</guid>
       <description>先月末から出張ばかりでなかなか落ち着かない。出張を入れたのは自分なんだけど、これだけ続くと大変疲れる。何よりここに何かを書こうという気持ちすらなくなる。良くない。
 ぼくの場合、文章のネタを思いつくのはお風呂に入っているときだと、むかし はてな かどこかに書いた気がする。色んな文章を色んなところに生成しては放置してきた結果、どこに何が書いてあるか分からなくなってしまっている。くだらないことからくだらないことまでたくさん書いてきた、気がする。そのほとんどがお風呂に入っているときに考えを巡らせた（というか正確には考えが勝手に頭を巡った）おかげだったりする。
 まぁでも、出張しすぎると駄目だというのを体感できただけでも良しとしよう。多くて1ヶ月か半月に1回程度くらいにしたい。ただまぁ全く出張しないのも外界との相互作用しないことに等しいので良くない。適度に相互作用して自分をアップデートしておきたい。</description>
@@ -63,10 +63,10 @@
     
     <item>
       <title>やっぱりまだ疲れることすると疲れるのかもしれない</title>
-      <link>http://amor-fati.net/archives/maybe-tired/</link>
+      <link>https://amor-fati.net/archives/maybe-tired/</link>
       <pubDate>Mon, 11 Mar 2019 22:07:28 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/maybe-tired/</guid>
+      <guid>https://amor-fati.net/archives/maybe-tired/</guid>
       <description>気付けば今年も3月の中旬に差し掛かりつつある。早い。こわい。ひぃ。
 先月はとても調子が良かった。今月に入って、薬に身体が慣れてきたのか、それとも単にそういう状況にいるからだけなのか、不意に気分が落ちそうになるときがある。ぼくにとって孤独と空腹は大敵なんだけど、海外出張は下手をするとその二つが重なってくるから気を付けないといけない。お腹がすいているだけなら大丈夫だし、むしろ一人の時間は必要なんだけど、どうも空腹でかつ孤独は駄目らしい。滅入る。うん、本当に気をつけないと。
 それはそうと、久しぶりに利害を伴いうるやりとりをして、やっぱり相手が自分の利益を最大にしようとする意図はニガテだなと思った。だいたいのことはあまり疲れずに出来るようになったけど、やっぱりこういう話は気持ち的にも疲れるんだろうと思う。</description>
@@ -74,10 +74,10 @@
     
     <item>
       <title>叱って伸ばすか褒めて伸ばすか</title>
-      <link>http://amor-fati.net/archives/which-is-better-to-do-that/</link>
+      <link>https://amor-fati.net/archives/which-is-better-to-do-that/</link>
       <pubDate>Sun, 17 Feb 2019 09:18:10 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/which-is-better-to-do-that/</guid>
+      <guid>https://amor-fati.net/archives/which-is-better-to-do-that/</guid>
       <description>いつだって良い方へと向かいたい。そうは思っていてもなかなか何処へ向かえば、それが「良い方」なのか分からなかったりする。実際にそんなときが訪れる前に、その対処法があるなら知っておくに越したことはない。だから少しそのことについて少し考えてみた。
 ただ、究極的には、よいメンターを見つけることが最善の策だと思う。ちゃんとメンターに巡り会えれば良いけど、そうでなくても次善策としての対処法はあるはずで、ここではそれについて考えたい。また、この話はメンターとしての良し悪しを判断する基準にもなるかと思う。
 と、大風呂敷を広げてしまったけど、そんな大仰な話ではなく、端的に言って、褒めて伸ばすか、叩いて伸ばすかの議論についての見解を述べたい。人生論ではなくて具体的な技能の話になるが、よいメンターは具体的なアドバイスをくれるものだ。結論から言うと「二元論的ではなく、適度にどちらも必要」となるが、その割合は褒めるを多めにすべきだとぼくは思う。そして次善策として、メンターでなくとも、そのようなひとが多く周りにいる環境に身を置くべきだと思う。そのような環境にいて、相談して、進むべき道を探す、というのが次善策だ。相談は大事。
@@ -92,10 +92,10 @@
     
     <item>
       <title>計算の速さはノートとペンの質に依存する</title>
-      <link>http://amor-fati.net/archives/good-for-calculations/</link>
+      <link>https://amor-fati.net/archives/good-for-calculations/</link>
       <pubDate>Thu, 14 Feb 2019 20:18:05 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/good-for-calculations/</guid>
+      <guid>https://amor-fati.net/archives/good-for-calculations/</guid>
       <description>計算の速さはノートとペンの質に依存することを再認識した。ここ1年ちょっとくらいは、1冊1000円以上するノートで計算しているけど、本当にペンの走りがいい。ペンも色々と試したけど、結局ぺんてるに落ち着いた。福山先生が同じペンを使っているのを見て、こっそり「さすが、分かってらっしゃる」と思うなどした（誰）
 個人的には最高の組み合わせだと思っているが、どれとどれかは内緒にしておこう。企業秘密みたいなものだから。ノートの評価基準は、ペンの走り具合と、文字の滲みやすさ、ウラ映りしない、見開きが綺麗に開くか、などである。ペンの評価基準は、持った時の感じがしっくりくるか、ペンを走らせたときにどれくらいの速度で走らせたらかすれるか、そのあと止めたときにどれだけ滲むか、である。ダメなペンは、少し速く書くとすぐかすれる。
 ノートをテーマごとで分けていて、どれにも直接は当てはまらない計算をレポート用紙に書きなぐっていたら、何とも紙がザラザラしている感じが気持ち悪かった。やっぱり商売道具には良いものを使いたいと思った次第です。
@@ -104,10 +104,10 @@
     
     <item>
       <title>服が多い</title>
-      <link>http://amor-fati.net/archives/too-many-clothes/</link>
+      <link>https://amor-fati.net/archives/too-many-clothes/</link>
       <pubDate>Thu, 14 Feb 2019 00:04:23 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/too-many-clothes/</guid>
+      <guid>https://amor-fati.net/archives/too-many-clothes/</guid>
       <description>確実に親の影響で、未だに服が多い。実家にいたときも実家を離れてからも、それなりの頻度で帰っていたせいで、実家に帰ると父親がぼく用に服を買っていたりした。ぼくのためと言うよりは、服を見て安く買うことが好きだったんだろうと思うし、何着もあれば着回せて長持ちさせられるという発想だったのも知っている。昔はセンスのなさに辟易してたけど、ぼくの好みを学習して、それなりな服を買い置きしてくれていた。win-winだったのでありがたく使わせてもらっていた。
 そのあおりで母親は洗濯やらクリーニングやらに対して面倒とかお金が余計にかかるだとか言わず、つまるところ一人暮らしとは思えないサイクルで服が供給されて、維持にお金を要していた。
 去年のゴタゴタのせいで、いよいよ完全に一人暮らしらしい一人暮らしをせざるを得なくなって、やっぱり普通のひとより服が多いことを実感した。今となっては着ない服もかなりあることが問題で、捨てるにも勿体ないし、かと言ってメルカリとかで売るのも手間だし、と地味に困っている。
@@ -116,10 +116,10 @@
     
     <item>
       <title>なぜズボンは股下で破れるのか</title>
-      <link>http://amor-fati.net/archives/why-jeans-go-wrong/</link>
+      <link>https://amor-fati.net/archives/why-jeans-go-wrong/</link>
       <pubDate>Mon, 11 Feb 2019 20:10:25 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/why-jeans-go-wrong/</guid>
+      <guid>https://amor-fati.net/archives/why-jeans-go-wrong/</guid>
       <description>明日はジョブインタヴューなるものがある。多方面にお手数をかけてしまったけど、多少はまともな発表ができそうな感じになってきた。あと少しなので頑張りたい。
 タイトルの問題。なぜジーパンは股下で破れるのか。昔は、裾直しをせずに履いていたせいで、踵あたりで破れていた。それは理解できるし、裾直ししたジーパンを履いていれば起こり得ないことだ。
 ここ数年で2着のジーパンがお亡くなりになっている。1着は1年くらいしか履いていないんだけど、いやまぁかなり履きたおしたんだけど、それでも1年って早くないか？と思う次第。というか、ジーパンを履こうとしたときに、よく見たら股下に大きな穴が空いてるのを見つけてしまったときのショックたるや。その直後に湧き上がる疑念「オレはいつから股下に大きな穴のあるジーパンを履いて世間に痴態を晒していたのか」と、そのときの恥ずかしさはいま思い返しても、なかなかに辛いものがある。
@@ -129,20 +129,20 @@
     
     <item>
       <title>ぐぬぬ</title>
-      <link>http://amor-fati.net/archives/gnn2019/</link>
+      <link>https://amor-fati.net/archives/gnn2019/</link>
       <pubDate>Thu, 07 Feb 2019 21:03:30 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/gnn2019/</guid>
+      <guid>https://amor-fati.net/archives/gnn2019/</guid>
       <description>病院に行ったら、まぁそうですよねという結果になった。もうそれは仕方ないと諦めるしかないのだけど、ただ処理能力がものすごく低下しているような、すぐに余裕がなくなるような感じがつらい。全然進まん。多方面に迷惑をかけて申し訳ないという気持ち。
 薬を処方してもらって飲んでるんだけど、この飲み始めて3日くらいはどうしようもなく眠たかった。そしてむちゃくちゃ寝た。寝起きはかなり改善されている感じはしている。今日は流石に何とかしないと、と思ってコーヒー飲んだ。スッキリする気がするけど、今度は全く眠れなくなりそう。でも作業が進むわけでもない。「ちびまる子ちゃん」のドヨーンとした縦線がいっぱいある感じで気持ちが重たくなる。これは本当に何なんだろう。</description>
     </item>
     
     <item>
       <title>一つずつこなしていくしかないのだけれど</title>
-      <link>http://amor-fati.net/archives/i-know-but/</link>
+      <link>https://amor-fati.net/archives/i-know-but/</link>
       <pubDate>Fri, 01 Feb 2019 22:17:30 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/i-know-but/</guid>
+      <guid>https://amor-fati.net/archives/i-know-but/</guid>
       <description>キャパオーバーするとフリーズするの何とかしたい。これずっと言ってる気がするけど、どうすればいいのだろうか。と書いてみたけど、そんなの自明だった。
 キャパオーバーにならないことを心掛ける。 キャパオーバーしても即座にリカバーできるようにする。 残念ながら2については自分ではどうにも出来ない。なので病院に頼ることにしようと思って病院を予約した。そういうことを頼れる人が身近にいればいいけど、自分にはいないし、そういう存在がいたとして、その人にだって自分の生活があるわけで、そういうのはプロに任せるべきなんだろうと思う。
 1についてはどうしたらいいものか。やっぱり普段からもう少し自分をケアしておくべきなのかもしれない。
@@ -151,10 +151,10 @@
     
     <item>
       <title>まぁそうですよね</title>
-      <link>http://amor-fati.net/archives/wq/</link>
+      <link>https://amor-fati.net/archives/wq/</link>
       <pubDate>Fri, 25 Jan 2019 01:43:41 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/wq/</guid>
+      <guid>https://amor-fati.net/archives/wq/</guid>
       <description>こんなことをここに書くのもどうかと思うけど，とりあえず忘れないうちに．
 研究室Aに所属して（Aの主なテーマについて研究して）いる人物Xが，Aの主宰者Pを通さずに別の研究室Bの主宰者Qに「雇ってくれないか」と頼んだところで，前向きに検討してくれるのは，XとQにそれなりに信用関係がないと無理だと思うんだ．研究室Bでの公募が出てる場合は別．
 普通に「なんでPが雇わないのに自分が雇わないといけないのか」という話になるわけで，それを説明できるのはXでなくてPなわけで．まぁ何というか，似たようなことやってるのに「Pが雇わないような人物」を雇うのは，そもそも考えられないんじゃないか，と思ってしまっている．
@@ -165,19 +165,19 @@
     
     <item>
       <title>Day Oneに書いてしまったらここに書くことがなくなった</title>
-      <link>http://amor-fati.net/archives/no-words-to-write/</link>
+      <link>https://amor-fati.net/archives/no-words-to-write/</link>
       <pubDate>Wed, 23 Jan 2019 00:55:25 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/no-words-to-write/</guid>
+      <guid>https://amor-fati.net/archives/no-words-to-write/</guid>
       <description>タイトル通り．ただ，もう少し思慮についてはここに書いていきたいという気持ちはある．</description>
     </item>
     
     <item>
       <title>内向的時間としての日記書き</title>
-      <link>http://amor-fati.net/archives/%E5%86%85%E5%90%91%E7%9A%84%E6%99%82%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E8%A8%98%E6%9B%B8%E3%81%8D/</link>
+      <link>https://amor-fati.net/archives/%E5%86%85%E5%90%91%E7%9A%84%E6%99%82%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E8%A8%98%E6%9B%B8%E3%81%8D/</link>
       <pubDate>Tue, 22 Jan 2019 02:57:18 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/%E5%86%85%E5%90%91%E7%9A%84%E6%99%82%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E8%A8%98%E6%9B%B8%E3%81%8D/</guid>
+      <guid>https://amor-fati.net/archives/%E5%86%85%E5%90%91%E7%9A%84%E6%99%82%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E8%A8%98%E6%9B%B8%E3%81%8D/</guid>
       <description>今年は毎日なにか書こうと決めて、疎らながら続けられている。それは良いことだけど、そもそもの目的は、日記を書く行為を通して日々の過ごし方に対してもう少し自覚的になることだった。
 取り留めもなく考えるだけの日々を過ごしていては何かを成し遂げられない。場当たり的に目の前のことをこなしていくだけでは、いまのぼくには明らかに時間が足りていない。目標の期限を大まかに決めて、逆算してみると、あからさまに時間が足りていない。それをもう少し前向きに自覚するために、毎日やったことと進んだことを思い返して、明日することを決める時間にしたい。
 でも、そんなことを公開でやるのはどうなんだろうか。以前に何度かDay Oneに書いていたけど続かなかったから、非公開ではなかなか難しそう。と思ったけど、公開・非公開は関係ないか。
@@ -186,10 +186,10 @@
     
     <item>
       <title>勉強とその延長線上としての研究</title>
-      <link>http://amor-fati.net/archives/learn-to-study/</link>
+      <link>https://amor-fati.net/archives/learn-to-study/</link>
       <pubDate>Mon, 21 Jan 2019 06:26:27 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/learn-to-study/</guid>
+      <guid>https://amor-fati.net/archives/learn-to-study/</guid>
       <description>研究をするにしても勉強が必要だ。と言うと、少し語弊があるように思う。「研究」という言葉は、広義では「物事を学問的に深く考え、調べ、明らかにすること」なので、勉強と重なる部分も多分にしてあり、研究すなわち（自分なりの）勉強ということとも捉えられる。別に、まだ誰も知らない物事を明らかにすることだけが「研究」ではないということ。夏休みの自由研究を「研究」ではないと言うのは乱暴な意見だと思う。
 だから、ここでは「研究」は、まだ誰も知らない物事に対してのみ用いるという制限を加えておく。すでに誰かが明らかにしたことに対しては「勉強」という言葉を用いることにする。
 この文脈で勉強と研究を捉えると、勉強の延長線上に研究があるように思える。それと同時に、何か誰も知らない新しいことを見い出すためには、勉強が必要になることも分かる。なぜなら、「これは誰も知らないことだ」と認識できるためには、すでに知られていることと、そうでないことの区別ができなければならず、それは勉強によって初めて可能となるから。
@@ -200,10 +200,10 @@
     
     <item>
       <title>論文の査読制度</title>
-      <link>http://amor-fati.net/archives/beyond-that/</link>
+      <link>https://amor-fati.net/archives/beyond-that/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:09 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/beyond-that/</guid>
+      <guid>https://amor-fati.net/archives/beyond-that/</guid>
       <description>年末に投稿した論文原稿が、1ヶ月と経たずに投稿したままの内容でアクセプトされた。こんなことは初めてで、今までは最低でも1ヶ月は待たされていたし、レフェリーから何かしらの質問やコメントが返ってきて、その質問に答えたり、原稿を修正したりして、再投稿して、というプロセスだった。だから最短でも2ヶ月くらいは出版までかかっていた。それが1ヶ月未満だったので、驚いている。
 確かに今回の内容は、最低限の構成で、主張もシンプルだった。それが幸いした部分もある。レフェリーコメントにもそれが見てとれる。
 うーん、素直に喜べばいいんだろうか。査読されたという感じがしない。無い物ねだりかな。</description>
@@ -211,10 +211,10 @@
     
     <item>
       <title>ふむむ</title>
-      <link>http://amor-fati.net/archives/gununu/</link>
+      <link>https://amor-fati.net/archives/gununu/</link>
       <pubDate>Tue, 15 Jan 2019 02:35:00 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/gununu/</guid>
+      <guid>https://amor-fati.net/archives/gununu/</guid>
       <description>JetPackを使ってwordpress.comと連携させるとWordPressのiOSアプリからこのブログをいじれるらしくてトライしてみたけど、どうもダメっぽい。JetPackを使ったwordpress.comとの連携まではできたけど、「サイトにアクセスできません」となって中途半端に操作を受け付けない。
 調べてみたら常時SSL化させているとダメなケースがあるみたい。うーん、面倒だな。ということで、WordPressのiOSアプリは使わない方針でいく。
 今日はやなか珈琲に豆を買いに行って、居室に寄ってから筋トレして帰ってきた。
@@ -223,10 +223,10 @@
     
     <item>
       <title>株が気になっている</title>
-      <link>http://amor-fati.net/archives/stock/</link>
+      <link>https://amor-fati.net/archives/stock/</link>
       <pubDate>Sun, 13 Jan 2019 18:07:08 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/stock/</guid>
+      <guid>https://amor-fati.net/archives/stock/</guid>
       <description>タンス貯金よりも、銀行に貯金するよりも、投資すべきだという話を聞いたことがある。
 投資にも色々あるらしいが、詳しく知らない。以前は銀行に預けているだけでもそれなりにお金は増えていったらしい。それは銀行が、預けられたお金を融資に使って、その利益を預金していた人に回していたからだと理解している。でも今では金利が高々、年0.3%程度で、銀行に預けていてもほとんどお金は増えない。下手をするとお金を下ろす手数料でマイナスにすらなるくらい。それなら自分が銀行を介さずに直接投資したほうが、多少手間やリスクがあっても得るものは多いはず、とみんな考えているのだろうか。
 それはそうと、投資は経済を回すらしい。本当にそうなのだろうかと疑問に思った。お金だけが流れているだけな気がしている。でも銀行に預けて銀行が投資業をやっていたときも本質的には何も変わらないから、これもきっと程度問題な気がしてきたな。うーん。投資する人が増えて、その額が多くなりすぎると消費というプロセスを経ないでお金だけが回るように思えて、それを止める機構は今の経済システムに組み込まれてるんだろうか、と。
@@ -235,10 +235,10 @@
     
     <item>
       <title>鍛える</title>
-      <link>http://amor-fati.net/archives/training/</link>
+      <link>https://amor-fati.net/archives/training/</link>
       <pubDate>Sat, 12 Jan 2019 02:18:37 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/training/</guid>
+      <guid>https://amor-fati.net/archives/training/</guid>
       <description>論文を読んでも直接的に関係していないとすぐ忘れてしまう．ちゃんとまとめておかないと駄目．正確には「まとめる」という行為をしないと駄目みたい．読んでいるときは「この人たちは何がしたいのか」とかを意識しているつもりでも，どうも受動的なようで記憶に残らないらしい．まぁ面白くないからというのが大きい気もするけど．後々のことを考えると，メモにしてまとめておきたい．内容を再構築しようとする積極的な思考は，受動的な思考とは違う気がしてるけど，どう違うのか言語化できていない．
 普段から研究でも何でもレポート用紙に書きなぐっていたんだけど，どうもそれだと達成感が得られなくて，精神衛生上よくなかった．なので良いノートを買って，そこに「今日」の日にちと「今いる場所」を書いて，研究ノートに書き込んでいっている．成果が出ていて順調ならこんなことをしなくてもいいと思うけど，いまのぼくには小さな達成感は必要だから．
 世間は三連休らしい．そんなものは知らん！という感じで頑張りたい．
@@ -247,10 +247,10 @@
     
     <item>
       <title>節約する</title>
-      <link>http://amor-fati.net/archives/save-money/</link>
+      <link>https://amor-fati.net/archives/save-money/</link>
       <pubDate>Fri, 11 Jan 2019 00:39:25 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/save-money/</guid>
+      <guid>https://amor-fati.net/archives/save-money/</guid>
       <description>職場の食堂のご飯は安い．500円以下でそれなりの量が食べられる．すごい．ただ営業時間が短くて，お昼は営業開始すぐに行かないと料理の味がどんどん落ちていく．お昼の営業終了の少し前に行くと，揚げ物は冷えて硬くなっているし，お味噌汁は底の方に残ったものだし，煮物は煮えすぎている．出来立てはだいたい何でも美味しい．たまに変なメニューがあるけど．
 だからか知らないけれど，普段の昼ご飯の時間帯が異なる人たちが食堂のご飯を評価すると大きくバラつきが出る．（もちろんだいたい遅くに行く人たちの食堂に対する評価は低い傾向にある．）
 残念ながら，夜のメニューは「イマイチ」という評価で皆一致する．ほとんどの人は夜は自宅や職場の外で食べるから縮小営業は仕方ないし，メニューにバリエーションを増やせないのも仕方ない．分かる．しかしもう少しどうにかならないものか．まぁ安さには代えられない．
@@ -260,20 +260,20 @@
     
     <item>
       <title>毎日書くはずが早速書き洩らし</title>
-      <link>http://amor-fati.net/archives/keep-trying/</link>
+      <link>https://amor-fati.net/archives/keep-trying/</link>
       <pubDate>Thu, 10 Jan 2019 02:11:20 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/keep-trying/</guid>
+      <guid>https://amor-fati.net/archives/keep-trying/</guid>
       <description>締め切りを勘違いしていてヒィヒィ言いながら書類を仕上げていた．でも自分の理解の至らなさを実感できたので良しとしよう．毎日少しでも何かを書き残すつもりが，早速書かない日ができてしまった！
 何にしても「駄目でもともと，当たれば儲け」の精神でやっていきたい．</description>
     </item>
     
     <item>
       <title>思考の混線</title>
-      <link>http://amor-fati.net/archives/confusion/</link>
+      <link>https://amor-fati.net/archives/confusion/</link>
       <pubDate>Tue, 08 Jan 2019 14:32:46 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/confusion/</guid>
+      <guid>https://amor-fati.net/archives/confusion/</guid>
       <description>自分自身で，自身の思考が混線していることに気付くことは難しい．「混線」と表現するのは，幾つかの思考の線があってそれらが絡まってしまっているイメージから．それぞれの線では整合性がとれている（ように見える）けど，他の線との位置づけがどうなっているのかを考えてみようとすると「あれ？」という感覚になる．
 結果から言えば，整合性がとれているように見えているだけで，細かく詰めるとそんなことはなくて，ふわっとした理解しかしていないことが分かった．事の発端は，今やっている自分の研究についてイントロをどんな風にしたら良いかと考えたときだった．
 「先行研究があって，それに対して自分の研究がある」というのは当たり前なんだけど，それだけだとイマイチ重要性が伝わらないし，下手をすると二番煎じと解されてしまうかもしれない．
@@ -283,10 +283,10 @@
     
     <item>
       <title>筋トレとタンメンとケーキ</title>
-      <link>http://amor-fati.net/archives/muscle-ramen-cake/</link>
+      <link>https://amor-fati.net/archives/muscle-ramen-cake/</link>
       <pubDate>Sat, 05 Jan 2019 22:41:49 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/muscle-ramen-cake/</guid>
+      <guid>https://amor-fati.net/archives/muscle-ramen-cake/</guid>
       <description>昨日の夜にボスにメールして、その返事が朝に来てた。シャワー浴びて朝ご飯を食べながら返事の内容を考えて、返信し終わったらお昼になっていた。スーパーに行って食材を調達して、研究室に行った。
 昼ご飯を食べて少し作業をしていたら、14時から市営体育館のトレーニングセンターに一緒に行く約束をしていたのを思い出した。自転車で飛ばせば5分で到着できた。5分か、なるほど、今後の参考にしよう。
 最近は友人と筋トレをしに市営体育館によく行っている。設備が充実しているので色々な筋肉を鍛えることができる。一応、負荷の重量と回数を記録している。しかしなかなか皮下脂肪はなくならない。ランニングも始めたい。
@@ -297,10 +297,10 @@
     
     <item>
       <title>正月休み終了</title>
-      <link>http://amor-fati.net/archives/show-guts-end/</link>
+      <link>https://amor-fati.net/archives/show-guts-end/</link>
       <pubDate>Sat, 05 Jan 2019 00:52:06 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/show-guts-end/</guid>
+      <guid>https://amor-fati.net/archives/show-guts-end/</guid>
       <description>お正月休みが終わり、実家から関東に戻ってきた。電車を乗り継ぎ、新幹線に乗って帰ってきた。途中で、電車と自転車の接触事故があって、20分ほど遅れた。ただ、新幹線との乗り継ぎに40分ほど余裕を持たせていたから事無きを得た。実家から駅までのアクセスが悪化の一歩をたどっていたことが、逆に幸いした。
 無事に帰れると思って新幹線に乗ると、自分の席にすでに人が座っていた。男女二人組の片方が1車両間違えて席を予約していたらしい。乗務員とすでに交渉していたらしく、乗務員の了承のもとで、席を交換した。ぼくにとっては隣が誰だろうとどうでもいいことである。でもちょっぴり寂しい。強く生きよう…
 実は、年末に入る前に新幹線の座席を予約し損ねていたせいで、年末にはグリーン車しか予約席は空いていなかった。色々と画策した結果、グリーン車に乗ることにした。交換した先もグリーン車なので問題はない、はずだった。
@@ -310,10 +310,10 @@
     
     <item>
       <title>三が日最後の雑記</title>
-      <link>http://amor-fati.net/archives/%E4%B8%89%E3%81%8C%E6%97%A5%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%91%E8%A8%98/</link>
+      <link>https://amor-fati.net/archives/%E4%B8%89%E3%81%8C%E6%97%A5%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%91%E8%A8%98/</link>
       <pubDate>Fri, 04 Jan 2019 01:09:56 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/%E4%B8%89%E3%81%8C%E6%97%A5%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%91%E8%A8%98/</guid>
+      <guid>https://amor-fati.net/archives/%E4%B8%89%E3%81%8C%E6%97%A5%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%91%E8%A8%98/</guid>
       <description>大学の頃の同期と昼から大阪で飲んだ。12時ごろに飲み屋を探し歩いて、結局は曽根崎の珉珉 に入った。15時くらいまでのんびり居て、それからニュートーキョー に行った。1人は体調崩して不参加で、3人で飲んだ。みんな結婚してライフステージが次に進んでて、ぼくはまだまだだなあ。
 休みもおしまい。明日から頑張ろう。
 行きの電車内で、某氏に教えてもらったdampingの論文をざっくり読んでいた。D論を再編して出版したのかなと思えるような感じの文章だけど、定義を丁寧に描いてくれていて、読む側としては助かる。まだ最後まで読んでないけど、面白い内容にまで踏み込んでくれているといいな。</description>
@@ -321,10 +321,10 @@
     
     <item>
       <title>飲みすぎた</title>
-      <link>http://amor-fati.net/archives/%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%81%9F/</link>
+      <link>https://amor-fati.net/archives/%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%81%9F/</link>
       <pubDate>Thu, 03 Jan 2019 01:54:38 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%81%9F/</guid>
+      <guid>https://amor-fati.net/archives/%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%81%9F/</guid>
       <description>間抜けだなと思うけど、独りで飲んでいて飲みすぎた。お風呂から上がったらかなり酔いがまわってしまった。お風呂ってお酒まわるんやね。
 落合氏については、叩かれて然るべきだと思う反面、より良くしたいという、その心意気は、決して何人も否定できないなと思うのです。もちろん「良く」の方向については議論すべきで。
 あー、だめだ、酔ってる。寝る。(だめな大人</description>
@@ -332,19 +332,19 @@
     
     <item>
       <title>つよく生きる</title>
-      <link>http://amor-fati.net/archives/%E3%81%A4%E3%82%88%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B/</link>
+      <link>https://amor-fati.net/archives/%E3%81%A4%E3%82%88%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B/</link>
       <pubDate>Wed, 02 Jan 2019 02:59:10 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/%E3%81%A4%E3%82%88%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B/</guid>
+      <guid>https://amor-fati.net/archives/%E3%81%A4%E3%82%88%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B/</guid>
       <description>年明けだからと仕事をせずにお酒を飲んでテレビを見たりTwitterをしたりしていたら、年明け早々にお叱りを受けたり不愉快だ発言をされたりしてしまった。生きることはなかなか難しい。反省はした。一応。 今年はできればTwitterから距離をおいて、ちゃんと価値のあるものを残していきたい。どうしてもTwitterだと垂れ流しているだけになって、まとめたりしなくなるから。 頑張ろう。</description>
     </item>
     
     <item>
       <title>25th Sep. 2018</title>
-      <link>http://amor-fati.net/archives/25th-sep-2018/</link>
+      <link>https://amor-fati.net/archives/25th-sep-2018/</link>
       <pubDate>Wed, 26 Sep 2018 01:21:33 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/25th-sep-2018/</guid>
+      <guid>https://amor-fati.net/archives/25th-sep-2018/</guid>
       <description>『メタセコイア』という新書を読んでみている．メタセコイア，あるいはアケボノスギの本だと思って読み始めてみたら，4ページ目から何のことわりもなく突然，大西洋から太平洋を北極圏を抜ける航海の歴史が始まった．「これは何の本だったのだろうか」と思いつつ，我慢して読み進めて11ページ目でやっとメタセコイア(の化石)の発見に繋がってくる．長い．
 書いてあることは理解できるが，なぜそれがここで書かれているのかが理解できない，という文章．自分にも思い当たる節がある．
 文章の流れを大雑把にでも作っておくこと．それを最初に述べておくこと．
@@ -353,10 +353,10 @@
     
     <item>
       <title>2016年11月9日の日記</title>
-      <link>http://amor-fati.net/archives/2016%E5%B9%B411%E6%9C%889%E6%97%A5%E3%81%AE%E6%97%A5%E8%A8%98/</link>
+      <link>https://amor-fati.net/archives/2016%E5%B9%B411%E6%9C%889%E6%97%A5%E3%81%AE%E6%97%A5%E8%A8%98/</link>
       <pubDate>Wed, 09 Nov 2016 22:33:20 +0900</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
-      <guid>http://amor-fati.net/archives/2016%E5%B9%B411%E6%9C%889%E6%97%A5%E3%81%AE%E6%97%A5%E8%A8%98/</guid>
+      <guid>https://amor-fati.net/archives/2016%E5%B9%B411%E6%9C%889%E6%97%A5%E3%81%AE%E6%97%A5%E8%A8%98/</guid>
       <description>2016年11月9日の日記 ¶ 午前 ¶ 居室にて7時ごろに目覚める． 年末調整の書類を作成して，書類はスキャンしておいた． 夕方，郵送しようと郵便局に行くも封筒にちゃんと入れないとダメだと言われてしまった． 恥ずかしい． （送られてきた封筒の中に封筒があったので，その内側の封筒に入れて郵送しようとした．） 昨日のお弁当を午前11時前に食べながら，久々にReeder.appを起動した．
 新聞社やニュース提供サイトの現状とか ¶ RSSフィードでニュースを見れるとよいのだけれど，最近は大手新聞社はRSS配信を辞めてしまっている． 代わりにスマホやタブレット用アプリで配信しているみたい． その方がお金になるんだろうか． 確かにRSSだと広告だけが収入源になるけれど，アプリだとアプリ作成会社との提携からも収入があるだろうし，いいのかな． アプリ作成会社にしてもある程度クオリティの保証された記事を提供してもらえる方が使用者が増えそうだし． 月額制有料アプリならアプリ作成会社は収入源はユーザ（読者）で，マージンを取って記事提供元に記事代を払う形態になっているのかな． でも無料アプリだとどういうビジネス形態になっているのだろうか．謎． ユーザの関心事を統計的に扱ってそのデータを何処かに売って利益を得ているとかかな． 広告からの収入だけでは厳しいような気もする． ニフティニュースというアプリを使ってみた雑感は，あんまり興味ない提供元は外したいんだけど外せないのがイマイチかな，と． 情報の質もちょっと低いんじゃないかなと思ってしまうけれど，そこは無料アプリだから仕方ないのかな． そう言えば，新聞というより週刊誌に近い感じで，広告を記事かと間違ってしまうときも最初はあった． そう思うと広告での収入もそれなりに期待できるのかな．
 午後 ¶ ということをつらつらと考えていたら正午になっていた． それからは学会発表用に計算． 面白いことが分かってきている感覚があるけれど，それが実は根本的に何か勘違いしているからというだけではないかと，ものすごく不安． あんまりこのことに時間を割いてられないので，適度に区切りをつけてやるべきことをやらないといけない． 17時ごろに，先ほど書いた郵便局での失態を経て，使いきってしまっていたコーヒー豆を補充しに買い物に出かけた． 早弁したせいでお腹が空き，久しぶりにバーガーキングに行った． カロリーで殴ってくる感じを堪能した． （でも日本のバーガーキングは，海外のそれより控えめな気がした．） それからそそくさと居室に戻ってきて，また少し計算した．
