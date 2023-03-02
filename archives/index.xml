@@ -8,11 +8,11 @@
     <language>ja-jp</language>
     <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
     <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
-    <lastBuildDate>Mon, 02 Jan 2023 13:18:23 +0900</lastBuildDate><atom:link href="https://amor-fati.net/archives/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 13:18:23 +0000</lastBuildDate><atom:link href="https://amor-fati.net/archives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ひとには役割があるのかもしれない</title>
       <link>https://amor-fati.net/archives/role/</link>
-      <pubDate>Mon, 02 Jan 2023 13:18:23 +0900</pubDate>
+      <pubDate>Mon, 02 Jan 2023 13:18:23 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/role/</guid>
       <description>新しい年が来ました．新年が明けて，久しぶりに何か書こうという気持ちになりました．去年はたくさんのライフイベントがあり，激動の年になりました．大人の階段を登った感じがすごくしています．
@@ -30,7 +30,7 @@
     <item>
       <title>老化とは何か</title>
       <link>https://amor-fati.net/archives/age/</link>
-      <pubDate>Tue, 09 Jun 2020 20:42:49 +0900</pubDate>
+      <pubDate>Tue, 09 Jun 2020 20:42:49 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/age/</guid>
       <description>さいきん老化について考えている。果たして「老いる」とは何なのか、と。
@@ -45,9 +45,23 @@
     </item>
     
     <item>
+      <title>老化についての一考察</title>
+      <link>https://amor-fati.net/archives/aging/</link>
+      <pubDate>Mon, 18 May 2020 18:24:23 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/aging/</guid>
+      <description>「老化とは何か」と考えたとき、どうもぼくには二種類の老化があるように思える。ゆっくりと少しずつ進むものと、短期間のうちに急激に変化するものだ。
+老化が急激に起こるわけがなかろうと言われるかもしれない。実際、世間一般で言われている老化とは、前者の「加齢と共にゆっくりと身体が衰えていくこと」を指すのだろう。
+老化を「刺激に対して反応が鈍化すること」と捉える。
+環境の変化への対応能力の低下、これも老化と言えなくはない。
+しかしそもそも老化は基礎があってこそ起こるものである。
+ここで重要な主張として、急激な変化こそが注意すべきものだと言いたい。</description>
+    </item>
+    
+    <item>
       <title>価値観の老化と老害化</title>
       <link>https://amor-fati.net/archives/old_and_new/</link>
-      <pubDate>Mon, 24 Feb 2020 15:44:48 +0900</pubDate>
+      <pubDate>Mon, 24 Feb 2020 15:44:48 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/old_and_new/</guid>
       <description>自分なりに価値観を確立することが「大人になる」ことのひとつだと思っていた．分別がつくようになるとでも言えばよいのだろうか．ひとたび出来上がってしまえば，あとは自分なりの価値観に即して判断していけばよいのだとも思っていた．その先はないと思っていた．
@@ -64,7 +78,7 @@
     <item>
       <title>音楽を愉しむ</title>
       <link>https://amor-fati.net/archives/enjoy-music/</link>
-      <pubDate>Mon, 16 Dec 2019 01:48:58 +0900</pubDate>
+      <pubDate>Mon, 16 Dec 2019 01:48:58 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/enjoy-music/</guid>
       <description>「音楽を愉しむ」と一口に言っても，3つくらい愉しみ方があるように思う．それは「楽器の音色を愉しむ」「歌手の声色を愉しむ」「歌詞を愉しむ」なんじゃないかと思う．
@@ -76,7 +90,7 @@
     <item>
       <title>ものごとには型がある</title>
       <link>https://amor-fati.net/archives/everything-is-gone/</link>
-      <pubDate>Mon, 18 Nov 2019 11:40:22 +0900</pubDate>
+      <pubDate>Mon, 18 Nov 2019 11:40:22 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/everything-is-gone/</guid>
       <description>一般論はどこでも読めるだろうから、研究について書いてみたい。
@@ -92,9 +106,21 @@
     </item>
     
     <item>
+      <title>後悔のない人生</title>
+      <link>https://amor-fati.net/archives/no-regret/</link>
+      <pubDate>Sun, 10 Nov 2019 00:52:45 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/no-regret/</guid>
+      <description>後悔ばかりがぼくの人生だけど，果たして自分の人生に後悔がなかったらどうだろうと考えてみた．
+そもそも，後悔とは過ぎ去った物事を悔やむことであり，そこには理性だけではなく感情がある．ともすると理性の割合が少なくて感情が多分に含まれている場合もある．ただただ感情的に後悔してしまうこともあった．恥の多い人生を送ってきたのだから．開き直るつもりはない．ただ事実として認めざるを得ない．だから後悔のない人生というものに興味がある．果たしてそれはどんなものなのだろう．
+人を人たらしめているものは理性であると思うので，感情に流されてはいけないとも思う[mfn]人でありたいのならば．[/mfn]．だから頑張って感情の波に押し切られないように理性を働かせなければいけない．安直な答えはきっと，完全に感情を理性でコントロールできる人生なんだろう．そんな人生に後悔はきっとない．理性的に反省はしても感情的に後悔はしない．
+でもぼくにはそれは実現不可能に思える．喩えるならば，感情は大海で，理性はそこに浮かぶ一隻の舟なのだと思うから．果たして舟は何処へ向かうのだろう．何処かへ向かえるのだろうか．感情の波が激しいひとにとってちっぽけな舟は流されるがままかもしれない．ぼくの感情は，たぶんきっとそんなに激しい海ではないと思う．それでもなかなか思う方へ舟は進んではくれないから．そんな身のぼくからすると，海を支配する舟なんて，もはや舟じゃない．神だよ．つまり人じゃない．人には無理．</description>
+    </item>
+    
+    <item>
       <title>目的地への最短経路を辿る</title>
       <link>https://amor-fati.net/archives/best-way/</link>
-      <pubDate>Fri, 12 Jul 2019 11:45:29 +0900</pubDate>
+      <pubDate>Fri, 12 Jul 2019 11:45:29 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/best-way/</guid>
       <description>目的を定めたときに，それを達成できそうな最も工程数の少ないプランを立てることは，言ってみれば当たり前に思える．目的を定め，それを達成するために行動すること．実は多くのひとがそれを実行できていないのではないかと思っている．
@@ -107,7 +133,7 @@
     <item>
       <title>何をするか何をしないか</title>
       <link>https://amor-fati.net/archives/to-do-and-not-to-do/</link>
-      <pubDate>Tue, 16 Apr 2019 20:50:03 +0900</pubDate>
+      <pubDate>Tue, 16 Apr 2019 20:50:03 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/to-do-and-not-to-do/</guid>
       <description>不確定要素が増えると自分にとってストレスになることを理解した。いくつかの予定が確定しないまま、その兼ね合いまで考えないといけない状況になっていた。思考のリソースが割かれるイメージ。2つの不確定要素が絡まると、それぞれが独立にあった場合に消費されるリソース以上にリソースが消費される感じだった。
@@ -118,7 +144,7 @@
     <item>
       <title>ありきたりに言えば、ヴィジョン</title>
       <link>https://amor-fati.net/archives/vision/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:17 +0900</pubDate>
+      <pubDate>Tue, 09 Apr 2019 00:00:17 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/vision/</guid>
       <description>これからよくなるという漠然とした期待。
@@ -131,9 +157,18 @@
     </item>
     
     <item>
+      <title>判断力の低下</title>
+      <link>https://amor-fati.net/archives/tired_up/</link>
+      <pubDate>Wed, 03 Apr 2019 20:58:54 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/tired_up/</guid>
+      <description>生活が乱れる原因は、ぼくの場合は、交感神経が働きすぎになる傾向にあるのに、ちゃんと副交感神経に切り替えてから寝ることを習慣化しないところにあるみたいだ。交感神経が優位な状態で「寝る」と言っても、どうも気絶に近い状態</description>
+    </item>
+    
+    <item>
       <title>出張ざんまい</title>
       <link>https://amor-fati.net/archives/many-trips/</link>
-      <pubDate>Wed, 20 Mar 2019 10:15:22 +0900</pubDate>
+      <pubDate>Wed, 20 Mar 2019 10:15:22 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/many-trips/</guid>
       <description>先月末から出張ばかりでなかなか落ち着かない。出張を入れたのは自分なんだけど、これだけ続くと大変疲れる。何よりここに何かを書こうという気持ちすらなくなる。良くない。
@@ -144,7 +179,7 @@
     <item>
       <title>やっぱりまだ疲れることすると疲れるのかもしれない</title>
       <link>https://amor-fati.net/archives/maybe-tired/</link>
-      <pubDate>Mon, 11 Mar 2019 22:07:28 +0900</pubDate>
+      <pubDate>Mon, 11 Mar 2019 22:07:28 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/maybe-tired/</guid>
       <description>気付けば今年も3月の中旬に差し掛かりつつある。早い。こわい。ひぃ。
@@ -153,9 +188,44 @@
     </item>
     
     <item>
+      <title>いかにして発表練習をするか</title>
+      <link>https://amor-fati.net/archives/how-to-make-your-presentation-better/</link>
+      <pubDate>Tue, 26 Feb 2019 02:53:09 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/how-to-make-your-presentation-better/</guid>
+      <description>リハビリとして原稿を作ることをしている．特に英語の発表なんて全く自信がないので必死だ．しかし原稿を作ると変に原稿に引きづられてしまう．なかなか難しい．
+そこでどうやれば効率的な発表練習になるか考えてみた．
+目標はスムーズにプレゼンできるようになること．
+とるプロセスとしては，3つある．
+原稿を作る 原稿を見ながら発表する 原稿を見ずに発表する a. スライド1枚だけ，などの部分的に練習する b. 最初から通して発表練習する</description>
+    </item>
+    
+    <item>
+      <title>初めてのレター投稿</title>
+      <link>https://amor-fati.net/archives/first-time-to-submit-letter/</link>
+      <pubDate>Sun, 24 Feb 2019 15:33:16 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/first-time-to-submit-letter/</guid>
+      <description>Letterにそもそも投稿すらしたことがなく，色々とfull paperとは異なっていたので，Letterに投稿するときに気付いたことをまとめておく．
+文章構成自体が違う ¶ Letterは文字数制限がある．full paperには文字数制限はない．この差が本質的に二つを異なるものにしている．電子化が普及した今の時代になぜ文字数制限があるか．それは，Letterを日本語にすると「速報誌」となることからも分かるように，速報性を意識して文字数制限を設けられている1 ．文字数制限のために，研究内容を全部は詳細に書けない．速報的に伝えたい大切なことは手短に伝えなければいけないのだから，書くべきでもない．全部書きたければfull paperにすべきだ，という話だ．
+内容が込み入っていて，そもそも理解されるために色々な前提知識が必要な場合も，Letterにすることは難しい．しかしLetterにして速報性を出すだけの価値がある場合，どうするのだろうか．
+想定される読者が異なる ¶ Letterの想定読者は，Full paperよりも色んな分野でありえる．
+これは今回投稿するLetterがPRLだからというだけで，想定される読者をもっと狭めたPRB Rapidがあるので，Letterに対する一般論ではない．ただこの2つがあるせいで，PRLはよりとしても
+Supplimental Material の書き方 ¶ Supplimental Material の書き方がどうでもいいのに地味に面倒で困った．
+フォーマットは特に指定されていないみたいなので REVTeXで書く．
+arXivに上げるとき ¶ 1つのファイルにするので，Letterの最後（\end{document}の直前あたり）に
+\input{SupplimentalMaterial.tex}
+みたいに書いて，Letterの本文に吸い込ませる．SupplimentalMaterial.tex 自体では，\documentclass[aps]とかのプリアンブルや，\title{TITLE}とか，\author{}とか\affiliation{}をコメントアウトして，
+\begin{table*}[t!] {\bf \large Supplimental Material for ``TITLE&#39;&#39;} \end{table*} \newpage
+を最初に書いておけばよいみたい．こうしておかないと地味に\ref{}とか\cite{}とかが役に立たないという．
+PRLに投稿するとき ¶ これについてはまだ分からん．
+いまはpreprintサーバ（arXiv.org とか）があるから，正直言って単なる「速報性」という観点からだけでは意味をなさなくなっているが，まぁ査読された内容であるかそうでないか違いは大きい．&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
       <title>叱って伸ばすか褒めて伸ばすか</title>
       <link>https://amor-fati.net/archives/which-is-better-to-do-that/</link>
-      <pubDate>Sun, 17 Feb 2019 09:18:10 +0900</pubDate>
+      <pubDate>Sun, 17 Feb 2019 09:18:10 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/which-is-better-to-do-that/</guid>
       <description>いつだって良い方へと向かいたい。そうは思っていてもなかなか何処へ向かえば、それが「良い方」なのか分からなかったりする。実際にそんなときが訪れる前に、その対処法があるなら知っておくに越したことはない。だから少しそのことについて少し考えてみた。
@@ -173,7 +243,7 @@
     <item>
       <title>計算の速さはノートとペンの質に依存する</title>
       <link>https://amor-fati.net/archives/good-for-calculations/</link>
-      <pubDate>Thu, 14 Feb 2019 20:18:05 +0900</pubDate>
+      <pubDate>Thu, 14 Feb 2019 20:18:05 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/good-for-calculations/</guid>
       <description>計算の速さはノートとペンの質に依存することを再認識した。ここ1年ちょっとくらいは、1冊1000円以上するノートで計算しているけど、本当にペンの走りがいい。ペンも色々と試したけど、結局ぺんてるに落ち着いた。福山先生が同じペンを使っているのを見て、こっそり「さすが、分かってらっしゃる」と思うなどした（誰）
@@ -185,7 +255,7 @@
     <item>
       <title>服が多い</title>
       <link>https://amor-fati.net/archives/too-many-clothes/</link>
-      <pubDate>Thu, 14 Feb 2019 00:04:23 +0900</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:04:23 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/too-many-clothes/</guid>
       <description>確実に親の影響で、未だに服が多い。実家にいたときも実家を離れてからも、それなりの頻度で帰っていたせいで、実家に帰ると父親がぼく用に服を買っていたりした。ぼくのためと言うよりは、服を見て安く買うことが好きだったんだろうと思うし、何着もあれば着回せて長持ちさせられるという発想だったのも知っている。昔はセンスのなさに辟易してたけど、ぼくの好みを学習して、それなりな服を買い置きしてくれていた。win-winだったのでありがたく使わせてもらっていた。
@@ -197,7 +267,7 @@
     <item>
       <title>なぜズボンは股下で破れるのか</title>
       <link>https://amor-fati.net/archives/why-jeans-go-wrong/</link>
-      <pubDate>Mon, 11 Feb 2019 20:10:25 +0900</pubDate>
+      <pubDate>Mon, 11 Feb 2019 20:10:25 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/why-jeans-go-wrong/</guid>
       <description>明日はジョブインタヴューなるものがある。多方面にお手数をかけてしまったけど、多少はまともな発表ができそうな感じになってきた。あと少しなので頑張りたい。
@@ -210,7 +280,7 @@
     <item>
       <title>MPとか</title>
       <link>https://amor-fati.net/archives/mp-and/</link>
-      <pubDate>Sat, 09 Feb 2019 17:24:14 +0900</pubDate>
+      <pubDate>Sat, 09 Feb 2019 17:24:14 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/mp-and/</guid>
       <description>Day Oneで日記を付けている。音声入力を活用している。iPhoneだとフリック入力よりも速い。句読点や改行は「てん」「まる」「かいぎょう」とわざわざ発音しないといけないけど。
@@ -223,7 +293,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>ぐぬぬ</title>
       <link>https://amor-fati.net/archives/gnn2019/</link>
-      <pubDate>Thu, 07 Feb 2019 21:03:30 +0900</pubDate>
+      <pubDate>Thu, 07 Feb 2019 21:03:30 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/gnn2019/</guid>
       <description>病院に行ったら、まぁそうですよねという結果になった。もうそれは仕方ないと諦めるしかないのだけど、ただ処理能力がものすごく低下しているような、すぐに余裕がなくなるような感じがつらい。全然進まん。多方面に迷惑をかけて申し訳ないという気持ち。
@@ -233,7 +303,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>一つずつこなしていくしかないのだけれど</title>
       <link>https://amor-fati.net/archives/i-know-but/</link>
-      <pubDate>Fri, 01 Feb 2019 22:17:30 +0900</pubDate>
+      <pubDate>Fri, 01 Feb 2019 22:17:30 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/i-know-but/</guid>
       <description>キャパオーバーするとフリーズするの何とかしたい。これずっと言ってる気がするけど、どうすればいいのだろうか。と書いてみたけど、そんなの自明だった。
@@ -245,7 +315,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>まぁそうですよね</title>
       <link>https://amor-fati.net/archives/wq/</link>
-      <pubDate>Fri, 25 Jan 2019 01:43:41 +0900</pubDate>
+      <pubDate>Fri, 25 Jan 2019 01:43:41 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/wq/</guid>
       <description>こんなことをここに書くのもどうかと思うけど，とりあえず忘れないうちに．
@@ -259,7 +329,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>Day Oneに書いてしまったらここに書くことがなくなった</title>
       <link>https://amor-fati.net/archives/no-words-to-write/</link>
-      <pubDate>Wed, 23 Jan 2019 00:55:25 +0900</pubDate>
+      <pubDate>Wed, 23 Jan 2019 00:55:25 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/no-words-to-write/</guid>
       <description>タイトル通り．ただ，もう少し思慮についてはここに書いていきたいという気持ちはある．</description>
@@ -268,7 +338,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>内向的時間としての日記書き</title>
       <link>https://amor-fati.net/archives/%E5%86%85%E5%90%91%E7%9A%84%E6%99%82%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E8%A8%98%E6%9B%B8%E3%81%8D/</link>
-      <pubDate>Tue, 22 Jan 2019 02:57:18 +0900</pubDate>
+      <pubDate>Tue, 22 Jan 2019 02:57:18 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/%E5%86%85%E5%90%91%E7%9A%84%E6%99%82%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%97%A5%E8%A8%98%E6%9B%B8%E3%81%8D/</guid>
       <description>今年は毎日なにか書こうと決めて、疎らながら続けられている。それは良いことだけど、そもそもの目的は、日記を書く行為を通して日々の過ごし方に対してもう少し自覚的になることだった。
@@ -280,7 +350,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>勉強とその延長線上としての研究</title>
       <link>https://amor-fati.net/archives/learn-to-study/</link>
-      <pubDate>Mon, 21 Jan 2019 06:26:27 +0900</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:26:27 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/learn-to-study/</guid>
       <description>研究をするにしても勉強が必要だ。と言うと、少し語弊があるように思う。「研究」という言葉は、広義では「物事を学問的に深く考え、調べ、明らかにすること」なので、勉強と重なる部分も多分にしてあり、研究すなわち（自分なりの）勉強ということとも捉えられる。別に、まだ誰も知らない物事を明らかにすることだけが「研究」ではないということ。夏休みの自由研究を「研究」ではないと言うのは乱暴な意見だと思う。
@@ -294,7 +364,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>論文の査読制度</title>
       <link>https://amor-fati.net/archives/beyond-that/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:09 +0900</pubDate>
+      <pubDate>Sun, 20 Jan 2019 00:00:09 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/beyond-that/</guid>
       <description>年末に投稿した論文原稿が、1ヶ月と経たずに投稿したままの内容でアクセプトされた。こんなことは初めてで、今までは最低でも1ヶ月は待たされていたし、レフェリーから何かしらの質問やコメントが返ってきて、その質問に答えたり、原稿を修正したりして、再投稿して、というプロセスだった。だから最短でも2ヶ月くらいは出版までかかっていた。それが1ヶ月未満だったので、驚いている。
@@ -305,7 +375,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>ふむむ</title>
       <link>https://amor-fati.net/archives/gununu/</link>
-      <pubDate>Tue, 15 Jan 2019 02:35:00 +0900</pubDate>
+      <pubDate>Tue, 15 Jan 2019 02:35:00 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/gununu/</guid>
       <description>JetPackを使ってwordpress.comと連携させるとWordPressのiOSアプリからこのブログをいじれるらしくてトライしてみたけど、どうもダメっぽい。JetPackを使ったwordpress.comとの連携まではできたけど、「サイトにアクセスできません」となって中途半端に操作を受け付けない。
@@ -317,7 +387,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>株が気になっている</title>
       <link>https://amor-fati.net/archives/stock/</link>
-      <pubDate>Sun, 13 Jan 2019 18:07:08 +0900</pubDate>
+      <pubDate>Sun, 13 Jan 2019 18:07:08 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/stock/</guid>
       <description>タンス貯金よりも、銀行に貯金するよりも、投資すべきだという話を聞いたことがある。
@@ -329,7 +399,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>鍛える</title>
       <link>https://amor-fati.net/archives/training/</link>
-      <pubDate>Sat, 12 Jan 2019 02:18:37 +0900</pubDate>
+      <pubDate>Sat, 12 Jan 2019 02:18:37 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/training/</guid>
       <description>論文を読んでも直接的に関係していないとすぐ忘れてしまう．ちゃんとまとめておかないと駄目．正確には「まとめる」という行為をしないと駄目みたい．読んでいるときは「この人たちは何がしたいのか」とかを意識しているつもりでも，どうも受動的なようで記憶に残らないらしい．まぁ面白くないからというのが大きい気もするけど．後々のことを考えると，メモにしてまとめておきたい．内容を再構築しようとする積極的な思考は，受動的な思考とは違う気がしてるけど，どう違うのか言語化できていない．
@@ -341,7 +411,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>節約する</title>
       <link>https://amor-fati.net/archives/save-money/</link>
-      <pubDate>Fri, 11 Jan 2019 00:39:25 +0900</pubDate>
+      <pubDate>Fri, 11 Jan 2019 00:39:25 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/save-money/</guid>
       <description>職場の食堂のご飯は安い．500円以下でそれなりの量が食べられる．すごい．ただ営業時間が短くて，お昼は営業開始すぐに行かないと料理の味がどんどん落ちていく．お昼の営業終了の少し前に行くと，揚げ物は冷えて硬くなっているし，お味噌汁は底の方に残ったものだし，煮物は煮えすぎている．出来立てはだいたい何でも美味しい．たまに変なメニューがあるけど．
@@ -354,7 +424,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>毎日書くはずが早速書き洩らし</title>
       <link>https://amor-fati.net/archives/keep-trying/</link>
-      <pubDate>Thu, 10 Jan 2019 02:11:20 +0900</pubDate>
+      <pubDate>Thu, 10 Jan 2019 02:11:20 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/keep-trying/</guid>
       <description>締め切りを勘違いしていてヒィヒィ言いながら書類を仕上げていた．でも自分の理解の至らなさを実感できたので良しとしよう．毎日少しでも何かを書き残すつもりが，早速書かない日ができてしまった！
@@ -364,7 +434,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>思考の混線</title>
       <link>https://amor-fati.net/archives/confusion/</link>
-      <pubDate>Tue, 08 Jan 2019 14:32:46 +0900</pubDate>
+      <pubDate>Tue, 08 Jan 2019 14:32:46 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/confusion/</guid>
       <description>自分自身で，自身の思考が混線していることに気付くことは難しい．「混線」と表現するのは，幾つかの思考の線があってそれらが絡まってしまっているイメージから．それぞれの線では整合性がとれている（ように見える）けど，他の線との位置づけがどうなっているのかを考えてみようとすると「あれ？」という感覚になる．
@@ -377,7 +447,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>馬が合うとか合わないとか</title>
       <link>https://amor-fati.net/archives/logarithmic-scale/</link>
-      <pubDate>Sun, 06 Jan 2019 19:59:25 +0900</pubDate>
+      <pubDate>Sun, 06 Jan 2019 19:59:25 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/logarithmic-scale/</guid>
       <description>社会で生きていれば「一緒にいると楽しい」とか「どうしても衝突してしまう」がある。そういう個別事象の蓄積で「馬が合う」とか「反りが合わない」とか判断するものだと思う。運命的に、出会った瞬間にガッチリと馬が合う場合や反りが合わない場合もあるけど、それはちょっと話が違うので話題から除外する。話をしたいのは、あまりハッキリとはしない人付き合いでの、やり取りの蓄積から起こる話。
@@ -394,7 +464,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>筋トレとタンメンとケーキ</title>
       <link>https://amor-fati.net/archives/muscle-ramen-cake/</link>
-      <pubDate>Sat, 05 Jan 2019 22:41:49 +0900</pubDate>
+      <pubDate>Sat, 05 Jan 2019 22:41:49 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/muscle-ramen-cake/</guid>
       <description>昨日の夜にボスにメールして、その返事が朝に来てた。シャワー浴びて朝ご飯を食べながら返事の内容を考えて、返信し終わったらお昼になっていた。スーパーに行って食材を調達して、研究室に行った。
@@ -408,7 +478,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>正月休み終了</title>
       <link>https://amor-fati.net/archives/show-guts-end/</link>
-      <pubDate>Sat, 05 Jan 2019 00:52:06 +0900</pubDate>
+      <pubDate>Sat, 05 Jan 2019 00:52:06 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/show-guts-end/</guid>
       <description>お正月休みが終わり、実家から関東に戻ってきた。電車を乗り継ぎ、新幹線に乗って帰ってきた。途中で、電車と自転車の接触事故があって、20分ほど遅れた。ただ、新幹線との乗り継ぎに40分ほど余裕を持たせていたから事無きを得た。実家から駅までのアクセスが悪化の一歩をたどっていたことが、逆に幸いした。
@@ -421,7 +491,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>三が日最後の雑記</title>
       <link>https://amor-fati.net/archives/%E4%B8%89%E3%81%8C%E6%97%A5%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%91%E8%A8%98/</link>
-      <pubDate>Fri, 04 Jan 2019 01:09:56 +0900</pubDate>
+      <pubDate>Fri, 04 Jan 2019 01:09:56 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/%E4%B8%89%E3%81%8C%E6%97%A5%E6%9C%80%E5%BE%8C%E3%81%AE%E9%9B%91%E8%A8%98/</guid>
       <description>大学の頃の同期と昼から大阪で飲んだ。12時ごろに飲み屋を探し歩いて、結局は曽根崎の珉珉 に入った。15時くらいまでのんびり居て、それからニュートーキョー に行った。1人は体調崩して不参加で、3人で飲んだ。みんな結婚してライフステージが次に進んでて、ぼくはまだまだだなあ。
@@ -432,7 +502,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>飲みすぎた</title>
       <link>https://amor-fati.net/archives/%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%81%9F/</link>
-      <pubDate>Thu, 03 Jan 2019 01:54:38 +0900</pubDate>
+      <pubDate>Thu, 03 Jan 2019 01:54:38 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/%E9%A3%B2%E3%81%BF%E3%81%99%E3%81%8E%E3%81%9F/</guid>
       <description>間抜けだなと思うけど、独りで飲んでいて飲みすぎた。お風呂から上がったらかなり酔いがまわってしまった。お風呂ってお酒まわるんやね。
@@ -443,7 +513,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>つよく生きる</title>
       <link>https://amor-fati.net/archives/%E3%81%A4%E3%82%88%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B/</link>
-      <pubDate>Wed, 02 Jan 2019 02:59:10 +0900</pubDate>
+      <pubDate>Wed, 02 Jan 2019 02:59:10 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/%E3%81%A4%E3%82%88%E3%81%8F%E7%94%9F%E3%81%8D%E3%82%8B/</guid>
       <description>年明けだからと仕事をせずにお酒を飲んでテレビを見たりTwitterをしたりしていたら、年明け早々にお叱りを受けたり不愉快だ発言をされたりしてしまった。生きることはなかなか難しい。反省はした。一応。 今年はできればTwitterから距離をおいて、ちゃんと価値のあるものを残していきたい。どうしてもTwitterだと垂れ流しているだけになって、まとめたりしなくなるから。 頑張ろう。</description>
@@ -452,7 +522,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>楽しく生きたい</title>
       <link>https://amor-fati.net/archives/to-be-or-not-to-be/</link>
-      <pubDate>Tue, 01 Jan 2019 03:48:08 +0900</pubDate>
+      <pubDate>Tue, 01 Jan 2019 03:48:08 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/to-be-or-not-to-be/</guid>
       <description>世間はいつも暗い話題ばかりで、楽しいことなんてあまりない。少しの楽しい時間でさえ、心のどこかに漠然とした不安みたいなものがある。できることなら、ただただ楽しく生きたい。
@@ -470,7 +540,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>25th Sep. 2018</title>
       <link>https://amor-fati.net/archives/25th-sep-2018/</link>
-      <pubDate>Wed, 26 Sep 2018 01:21:33 +0900</pubDate>
+      <pubDate>Wed, 26 Sep 2018 01:21:33 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/25th-sep-2018/</guid>
       <description>『メタセコイア』という新書を読んでみている．メタセコイア，あるいはアケボノスギの本だと思って読み始めてみたら，4ページ目から何のことわりもなく突然，大西洋から太平洋を北極圏を抜ける航海の歴史が始まった．「これは何の本だったのだろうか」と思いつつ，我慢して読み進めて11ページ目でやっとメタセコイア(の化石)の発見に繋がってくる．長い．
@@ -482,7 +552,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>2016年11月9日の日記</title>
       <link>https://amor-fati.net/archives/2016%E5%B9%B411%E6%9C%889%E6%97%A5%E3%81%AE%E6%97%A5%E8%A8%98/</link>
-      <pubDate>Wed, 09 Nov 2016 22:33:20 +0900</pubDate>
+      <pubDate>Wed, 09 Nov 2016 22:33:20 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/2016%E5%B9%B411%E6%9C%889%E6%97%A5%E3%81%AE%E6%97%A5%E8%A8%98/</guid>
       <description>2016年11月9日の日記 ¶ 午前 ¶ 居室にて7時ごろに目覚める． 年末調整の書類を作成して，書類はスキャンしておいた． 夕方，郵送しようと郵便局に行くも封筒にちゃんと入れないとダメだと言われてしまった． 恥ずかしい． （送られてきた封筒の中に封筒があったので，その内側の封筒に入れて郵送しようとした．） 昨日のお弁当を午前11時前に食べながら，久々にReeder.appを起動した．
@@ -496,7 +566,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>やる気が出ないときに読むとやる気が出るよ</title>
       <link>https://amor-fati.net/archives/get-back-your-energy/</link>
-      <pubDate>Sat, 10 Oct 2015 00:05:15 +0900</pubDate>
+      <pubDate>Sat, 10 Oct 2015 00:05:15 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/get-back-your-energy/</guid>
       <description>僕の性質上，やる気を失うときが必ずまた来る．でもきっとそのとき，やらなきゃいけないことは沢山あるんだと思う．やる気が出ないと言っていられない，やらざるを得ない状況になっているだろう．
@@ -510,7 +580,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>個人的には、これは究極の選択。</title>
       <link>https://amor-fati.net/archives/which-is-happy/</link>
-      <pubDate>Mon, 02 Sep 2013 01:26:59 +0900</pubDate>
+      <pubDate>Mon, 02 Sep 2013 01:26:59 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/which-is-happy/</guid>
       <description>いわゆる作品と呼ばれるもの全般、その評価の在り方の話。 映画でも良いし、ドラマでも良い。 もちろん文章や絵画、音楽でも良いし、料理やお酒でも良い。 もしかするとスポーツ観戦なんかも作品と言えるかもしれない。 ひとつの人生すらも、作品と見なすひとがいるかもしれない。
@@ -529,7 +599,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>「 夢なんて、無くてもいいじゃない。」</title>
       <link>https://amor-fati.net/archives/no-more-dreams/</link>
-      <pubDate>Sun, 10 Feb 2013 23:44:51 +0900</pubDate>
+      <pubDate>Sun, 10 Feb 2013 23:44:51 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/no-more-dreams/</guid>
       <description>みんなが皆、夢を持ってその夢に向かって努力してなくたっていいじゃない。 ただ毎日を過ごして、その積み重ねの生涯の、何処がいけないの？ 夢中になれるものがなくたって良いじゃない。それなりに楽しく、それなりに辛い。
@@ -542,9 +612,19 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     </item>
     
     <item>
+      <title>宗教を信仰する人との付き合い方</title>
+      <link>https://amor-fati.net/archives/religious-education/</link>
+      <pubDate>Sat, 01 Sep 2012 22:44:00 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/religious-education/</guid>
+      <description>日本において世間一般では「宗教」はほとんどカルトと同義な扱いをされる。それはおそらく無知に由来する偏見ゆえである。もちろん、悪意をもって人に付け入ろうとする宗教もあり、そのような宗教は厳しく取り締まられるべきだが、多くの人の生活の支えとなりその人々に安らぎを与えている宗教も存在することは事実である。急速に世界が狭くなり世界中の人とコミュニケーションが可能となった現代で「宗教＝カルト，危険な存在」という単純な思考では、そのような世界を捉えきれないだろう。
+キリスト教や仏教、イスラム教やヒンドゥー教など中学生の頃に歴史の教科書に必ず載っている宗教は、ほとんどの人が名前を知っているだろう。</description>
+    </item>
+    
+    <item>
       <title>外積の覚えやすい書き方</title>
       <link>https://amor-fati.net/archives/scalar-triple-product/</link>
-      <pubDate>Thu, 03 May 2012 23:05:34 +0900</pubDate>
+      <pubDate>Thu, 03 May 2012 23:05:34 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/scalar-triple-product/</guid>
       <description>ベクトルのスカラー三重積で，おもしろい書き方があるのを知ったのでここに書いておこう．まずベクトルの外積$$ \mathbf{B} \times \mathbf{C} $$の定義として行列式を用いた
@@ -558,7 +638,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>不安を糧にする人、不安に押し潰される人。</title>
       <link>https://amor-fati.net/archives/how-to-feel-ill-at-ease/</link>
-      <pubDate>Sat, 25 Feb 2012 04:58:05 +0900</pubDate>
+      <pubDate>Sat, 25 Feb 2012 04:58:05 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/how-to-feel-ill-at-ease/</guid>
       <description>やるべきことを自分が本当にやり遂げられるかを不安に感じる必要はない (via 発声練習 )という記事を見た．書かれている内容は正論というか，納得できることではある．ただ，もう少し別の見方があるのではないかと思った．
@@ -572,7 +652,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>ここに書いてあることについて</title>
       <link>https://amor-fati.net/archives/talk-about-something/</link>
-      <pubDate>Sat, 18 Feb 2012 02:56:18 +0900</pubDate>
+      <pubDate>Sat, 18 Feb 2012 02:56:18 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/talk-about-something/</guid>
       <description>ここに書いてあるのは、とてもストレートな気持ちばかりである。
@@ -588,7 +668,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>エネルギー平衡方程式とポインティングベクトル</title>
       <link>https://amor-fati.net/archives/the-energy-balance-equation/</link>
-      <pubDate>Fri, 02 Dec 2011 01:23:18 +0900</pubDate>
+      <pubDate>Fri, 02 Dec 2011 01:23:18 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/the-energy-balance-equation/</guid>
       <description>エネルギー平衡方程式というのがある． [ \frac{\mathrm{d} u(\mathbf{r},t)}{\mathrm{d} t} + \mathbf{\nabla} \cdot \mathbf{S}(\mathbf{r}, t) = - \varphi(\mathbf{r}, t) \tag{1} ] ( u(\mathbf{r},t) )は電磁場のエネルギー密度で， [ u(\mathbf{r},t) = \frac{1}{2} \epsilon_0 E^2 (\mathbf{r}, t) + \frac{1}{2 \mu_0} B^2 (\mathbf{r}, t) ] ( \mathbf{S}(\mathbf{r}, t) )はエネルギー流束密度で， [ \mathbf{S} (\mathbf{r}, t) = \frac{1}{\mu_0} \mathbf{E}(\mathbf{r}, t) \times \mathbf{B}(\mathbf{r}, t)] ( \varphi(\mathbf{r}, t) )は一般化されたジュール熱（単位体積当たり） [ \varphi(\mathbf{r}, t)=\mathbf{J}(\mathbf{r}, t)\cdot\mathbf{E}(\mathbf{r}, t)]
@@ -599,7 +679,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>テイラー展開のカンドコロ</title>
       <link>https://amor-fati.net/archives/taylor-series/</link>
-      <pubDate>Wed, 09 Nov 2011 05:04:40 +0900</pubDate>
+      <pubDate>Wed, 09 Nov 2011 05:04:40 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/taylor-series/</guid>
       <description>古典力学，統計力学や電磁気学，量子力学などでは近似するためにテイラー展開を使うことが間々ある．どうも混乱してしまう学生が少なからずいる模様．何に気を付けておくべきか，間違えやすいところは何処か分かっていれば，むやみに不安がる必要もなくなると思う．
@@ -610,7 +690,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>「円筒」には円柱の意味があるらしい</title>
       <link>https://amor-fati.net/archives/cylinder-or-cylinder/</link>
-      <pubDate>Fri, 04 Nov 2011 00:35:08 +0900</pubDate>
+      <pubDate>Fri, 04 Nov 2011 00:35:08 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/cylinder-or-cylinder/</guid>
       <description>日本語で「円筒」と言うと，普通は中身が空洞になっているものだろう．きっと日本人ならそう思う．だって「筒」自体には中空であることが定義に含まれているのだし．
@@ -625,7 +705,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>マグノンの勉強</title>
       <link>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link>
-      <pubDate>Sat, 15 Oct 2011 23:04:49 +0900</pubDate>
+      <pubDate>Sat, 15 Oct 2011 23:04:49 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid>
       <description>研究について、その日に進んだところをちょっと書いていこう。
@@ -636,7 +716,7 @@ MPをマジックポイントと読んだりメンタルパワーと読んだり
     <item>
       <title>投稿テスト</title>
       <link>https://amor-fati.net/archives/post-testing/</link>
-      <pubDate>Fri, 14 Oct 2011 00:38:17 +0900</pubDate>
+      <pubDate>Fri, 14 Oct 2011 00:38:17 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/post-testing/</guid>
       <description>久々のwordpressです． 投稿テストしてみます．
@@ -654,7 +734,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>ラグランジュの未定乗数法の極値問題</title>
       <link>https://amor-fati.net/archives/lagrange-multipliers-method/</link>
-      <pubDate>Fri, 17 Jun 2011 22:00:02 +0900</pubDate>
+      <pubDate>Fri, 17 Jun 2011 22:00:02 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/lagrange-multipliers-method/</guid>
       <description>極値をとることは分かるけれど、それが最大なのか最小なのか。例えば統計力学において、エントロピーが最大になるような確率分布について。統計力学の教科書は、だいたいが極値をとる分布を求めているだけだ。その点で確かに最大になっているかを確かめていない。これでは不十分ではないのか。
@@ -665,7 +745,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>だから言うのか、言わないのか。</title>
       <link>https://amor-fati.net/archives/what-to-say-or-not-to-say/</link>
-      <pubDate>Thu, 21 Apr 2011 00:37:28 +0900</pubDate>
+      <pubDate>Thu, 21 Apr 2011 00:37:28 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/what-to-say-or-not-to-say/</guid>
       <description>言っていいことわるいこと ¶ 「言っても言わなくてもいいことなら、言った方が良い」という立場の人もいれば、「言っても言わなくてもいいことなのだから、言わない方が良い」という立場の人もいる。
@@ -686,7 +766,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>ひとごと</title>
       <link>https://amor-fati.net/archives/its-not-my-business/</link>
-      <pubDate>Mon, 21 Mar 2011 01:22:20 +0900</pubDate>
+      <pubDate>Mon, 21 Mar 2011 01:22:20 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/its-not-my-business/</guid>
       <description>他人事と思わないこと。そこから感情が生まれるのだと僕は思う。それは間違いじゃないと思っている。
@@ -703,7 +783,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>ひとごとと思わないからこそ</title>
       <link>https://amor-fati.net/archives/i-am-a-man-and-you-are-a-man/</link>
-      <pubDate>Mon, 21 Mar 2011 00:43:20 +0900</pubDate>
+      <pubDate>Mon, 21 Mar 2011 00:43:20 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/i-am-a-man-and-you-are-a-man/</guid>
       <description>2011年3月11日（金）に発生した地震、それに伴う津波が引き起こした災害は甚大です。
@@ -720,7 +800,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>恥を知れ</title>
       <link>https://amor-fati.net/archives/you_know_well_that_you_do_not_know_well/</link>
-      <pubDate>Fri, 08 Oct 2010 00:43:35 +0900</pubDate>
+      <pubDate>Fri, 08 Oct 2010 00:43:35 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/you_know_well_that_you_do_not_know_well/</guid>
       <description>「恥を知れ」とは、どういうことか。
@@ -738,7 +818,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>電車内でのケータイのマナーについて</title>
       <link>https://amor-fati.net/archives/manners/</link>
-      <pubDate>Sat, 29 Aug 2009 00:00:53 +0900</pubDate>
+      <pubDate>Sat, 29 Aug 2009 00:00:53 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/manners/</guid>
       <description>マナーに強制力はない ¶ 電車内でのマナーが確立されつつあるから、それに対して少し指摘しておきたい。
@@ -758,7 +838,7 @@ Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほ
     <item>
       <title>優先座席の意味を考える</title>
       <link>https://amor-fati.net/archives/priority-seats/</link>
-      <pubDate>Sat, 29 Aug 2009 00:00:38 +0900</pubDate>
+      <pubDate>Sat, 29 Aug 2009 00:00:38 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/priority-seats/</guid>
       <description>電車内でのマナー に関連して、「優先座席」について思うところがある。
@@ -789,7 +869,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>科学技術論——科学と技術との分離・融合</title>
       <link>https://amor-fati.net/archives/science-and-technology/</link>
-      <pubDate>Tue, 07 Jul 2009 00:00:31 +0900</pubDate>
+      <pubDate>Tue, 07 Jul 2009 00:00:31 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/science-and-technology/</guid>
       <description>科学技術とは、読んで字の如く、科学だけでは足りず技術だけでも足りないものなのだろう。科学が論理的な側面を担い、技術が経験的な側面を担う。経験則を理論的に説明しようとして生まれた理論法則に、経験則が包含されていくのは当然の流れではあるから、理論がある程度の体系を得た現在で、技術が大なり小なり科学に道を譲るのは理解できる。以前は熟練の職人の技と言われたものが、現在では機械が技でも何でもない作業として行っているものも少なくない。
@@ -802,7 +882,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>定量性について — 程度の差こそあれど同じか？</title>
       <link>https://amor-fati.net/archives/measure-quantitatively/</link>
-      <pubDate>Mon, 06 Jul 2009 01:03:26 +0900</pubDate>
+      <pubDate>Mon, 06 Jul 2009 01:03:26 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/measure-quantitatively/</guid>
       <description>物事を定量的に扱うこと。
@@ -821,7 +901,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>派手に転べ、強く起き上がれ。</title>
       <link>https://amor-fati.net/archives/keep-the-fire-burning/</link>
-      <pubDate>Wed, 24 Jun 2009 00:00:08 +0900</pubDate>
+      <pubDate>Wed, 24 Jun 2009 00:00:08 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/keep-the-fire-burning/</guid>
       <description>失敗して、そればかりに囚われている人にはこう言おう。
@@ -839,7 +919,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>なぜ赤の他人とは深い議論が出来ないか</title>
       <link>https://amor-fati.net/archives/non-the-pointless/</link>
-      <pubDate>Wed, 27 May 2009 00:00:57 +0900</pubDate>
+      <pubDate>Wed, 27 May 2009 00:00:57 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/non-the-pointless/</guid>
       <description>相手の言いたいことをちゃんと把握できてこその議論だと思う。その「ちゃんと把握でき」るとはどういうことなのかを考えてみると、以下で言う「面」で捉えることに相当しているのだろう。しかし往々にしてそれがうまくいかないことがあることについて。
@@ -860,7 +940,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>成績は良いに越したことはない</title>
       <link>https://amor-fati.net/archives/exam-results/</link>
-      <pubDate>Sat, 02 May 2009 00:00:43 +0900</pubDate>
+      <pubDate>Sat, 02 May 2009 00:00:43 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/exam-results/</guid>
       <description>成績は良いに越したことはない。ただ、成績が悪いからと言って、だから何だ？とは思う。成績とは一つの尺度なだけだということ。
@@ -886,7 +966,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>死刑制度の賛否について</title>
       <link>https://amor-fati.net/archives/capital-punishment/</link>
-      <pubDate>Fri, 24 Oct 2008 00:00:02 +0900</pubDate>
+      <pubDate>Fri, 24 Oct 2008 00:00:02 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/capital-punishment/</guid>
       <description>死刑廃止論者に対しての問いかけ ¶ 死刑制度を採用している日本でも、その制度について賛否が別れている。 ここでは、しばしば持ち出される一つの問いかけ（というか指摘か）のことを考えたい。 それは死刑制度の否定派へと向けられたものである。
@@ -907,7 +987,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>選べる場合</title>
       <link>https://amor-fati.net/archives/how-to-choice/</link>
-      <pubDate>Thu, 10 Jul 2008 00:00:34 +0900</pubDate>
+      <pubDate>Thu, 10 Jul 2008 00:00:34 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/how-to-choice/</guid>
       <description>「選ぶ」とは ¶ ここで言う「選ぶ」とは、選択肢がまず用意されて、どれかを選ぶ場合について。 たとえば、レストランでメニューを見るときや、保険を選ぶときなど。 「人生は選択だ」とか言う意味での選択ではなくて、もっと具体的な場合の話。
@@ -925,7 +1005,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>バカになれない人間は馬鹿だ</title>
       <link>https://amor-fati.net/archives/again-and-again/</link>
-      <pubDate>Sun, 06 Jul 2008 00:00:51 +0900</pubDate>
+      <pubDate>Sun, 06 Jul 2008 00:00:51 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/again-and-again/</guid>
       <description>「こうすれば速い」と考えることは大切だ。 だが速いだけで質が低下しては意味がない。
@@ -939,7 +1019,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>安正速楽</title>
       <link>https://amor-fati.net/archives/well-done/</link>
-      <pubDate>Mon, 30 Jun 2008 00:00:24 +0900</pubDate>
+      <pubDate>Mon, 30 Jun 2008 00:00:24 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/well-done/</guid>
       <description>ルーチンワークの品質を上げるために ¶ 成長するために必要なことをコンセプトとして提供する。
@@ -954,7 +1034,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>自分の代わりがいる世界を眼前にして</title>
       <link>https://amor-fati.net/archives/living-in-the-world/</link>
-      <pubDate>Wed, 11 Jun 2008 00:00:20 +0900</pubDate>
+      <pubDate>Wed, 11 Jun 2008 00:00:20 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/living-in-the-world/</guid>
       <description>自分のことがかわいいからこそ ¶ 自分のことが可愛いと「自分じゃなくてもいいんだ」と思わされるような目にあったとき、やるせなくなるものだ。 意識するほどに自分が可愛くて仕方ない、そんな人にとってもちろんそうだろうし、あまりそんなつもりで生きていない人だって、やっぱりやるせなくなるんじゃないだろうか。 アルバイトなんて、その典型じゃないのか。 別に自分がしなくても、誰かがする。 しなきゃいけないことだけれど、別にそれは誰がするかは重要でない。
@@ -975,7 +1055,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>壁</title>
       <link>https://amor-fati.net/archives/kabe/</link>
-      <pubDate>Mon, 12 May 2008 05:09:27 +0900</pubDate>
+      <pubDate>Mon, 12 May 2008 05:09:27 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/kabe/</guid>
       <description>お願いごと：読み始めたら出来る限り最後まで読んでほしい。何か具体的な数字とか間違ってたら教えてほしい。
@@ -1005,7 +1085,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>年賀状を書こう。</title>
       <link>https://amor-fati.net/archives/a-new-years-card/</link>
-      <pubDate>Sun, 09 Dec 2007 06:04:16 +0900</pubDate>
+      <pubDate>Sun, 09 Dec 2007 06:04:16 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/a-new-years-card/</guid>
       <description>年賀状は贈り物だとおもう。
@@ -1019,7 +1099,7 @@ h0301-1: マタニティ・マーク この問題に対する一つの解決策�
     <item>
       <title>2005.04.25 福知山線脱線事故について</title>
       <link>https://amor-fati.net/archives/2005-04-25/</link>
-      <pubDate>Fri, 29 Apr 2005 00:00:11 +0900</pubDate>
+      <pubDate>Fri, 29 Apr 2005 00:00:11 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/2005-04-25/</guid>
       <description>数字で判断するのは良くない ¶ 数字で判断されてしまいがちなものの中で、戦争がしばしば挙げられる。それは至極当然だと思われるかもしれない。確かに人ひとりの生命の尊厳を、言葉に含ませるということ自体に無理があるかもしれない。だからと言って、一人ひとりの生命の尊さを諦めてよいことにはならないはずだ。果たして「第二次世界大戦で云十万、云千万の人間が死んだ」という表現の中に、本当に、一人ひとりの命の重さ、尊さを含ませようという気持ちがあるのだろうか、そうあろうとしているのだろうか。

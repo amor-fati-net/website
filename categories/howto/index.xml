@@ -8,11 +8,11 @@
     <language>ja-jp</language>
     <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
     <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
-    <lastBuildDate>Fri, 12 Jul 2019 11:45:29 +0900</lastBuildDate><atom:link href="https://amor-fati.net/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jul 2019 11:45:29 +0000</lastBuildDate><atom:link href="https://amor-fati.net/categories/howto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>目的地への最短経路を辿る</title>
       <link>https://amor-fati.net/archives/best-way/</link>
-      <pubDate>Fri, 12 Jul 2019 11:45:29 +0900</pubDate>
+      <pubDate>Fri, 12 Jul 2019 11:45:29 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/best-way/</guid>
       <description>目的を定めたときに，それを達成できそうな最も工程数の少ないプランを立てることは，言ってみれば当たり前に思える．目的を定め，それを達成するために行動すること．実は多くのひとがそれを実行できていないのではないかと思っている．
@@ -23,9 +23,19 @@
     </item>
     
     <item>
+      <title>宗教を信仰する人との付き合い方</title>
+      <link>https://amor-fati.net/archives/religious-education/</link>
+      <pubDate>Sat, 01 Sep 2012 22:44:00 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/religious-education/</guid>
+      <description>日本において世間一般では「宗教」はほとんどカルトと同義な扱いをされる。それはおそらく無知に由来する偏見ゆえである。もちろん、悪意をもって人に付け入ろうとする宗教もあり、そのような宗教は厳しく取り締まられるべきだが、多くの人の生活の支えとなりその人々に安らぎを与えている宗教も存在することは事実である。急速に世界が狭くなり世界中の人とコミュニケーションが可能となった現代で「宗教＝カルト，危険な存在」という単純な思考では、そのような世界を捉えきれないだろう。
+キリスト教や仏教、イスラム教やヒンドゥー教など中学生の頃に歴史の教科書に必ず載っている宗教は、ほとんどの人が名前を知っているだろう。</description>
+    </item>
+    
+    <item>
       <title>不安を糧にする人、不安に押し潰される人。</title>
       <link>https://amor-fati.net/archives/how-to-feel-ill-at-ease/</link>
-      <pubDate>Sat, 25 Feb 2012 04:58:05 +0900</pubDate>
+      <pubDate>Sat, 25 Feb 2012 04:58:05 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/how-to-feel-ill-at-ease/</guid>
       <description>やるべきことを自分が本当にやり遂げられるかを不安に感じる必要はない (via 発声練習 )という記事を見た．書かれている内容は正論というか，納得できることではある．ただ，もう少し別の見方があるのではないかと思った．
@@ -39,7 +49,7 @@
     <item>
       <title>定量性について — 程度の差こそあれど同じか？</title>
       <link>https://amor-fati.net/archives/measure-quantitatively/</link>
-      <pubDate>Mon, 06 Jul 2009 01:03:26 +0900</pubDate>
+      <pubDate>Mon, 06 Jul 2009 01:03:26 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/measure-quantitatively/</guid>
       <description>物事を定量的に扱うこと。
@@ -58,7 +68,7 @@
     <item>
       <title>派手に転べ、強く起き上がれ。</title>
       <link>https://amor-fati.net/archives/keep-the-fire-burning/</link>
-      <pubDate>Wed, 24 Jun 2009 00:00:08 +0900</pubDate>
+      <pubDate>Wed, 24 Jun 2009 00:00:08 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/keep-the-fire-burning/</guid>
       <description>失敗して、そればかりに囚われている人にはこう言おう。
@@ -76,7 +86,7 @@
     <item>
       <title>バカになれない人間は馬鹿だ</title>
       <link>https://amor-fati.net/archives/again-and-again/</link>
-      <pubDate>Sun, 06 Jul 2008 00:00:51 +0900</pubDate>
+      <pubDate>Sun, 06 Jul 2008 00:00:51 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/again-and-again/</guid>
       <description>「こうすれば速い」と考えることは大切だ。 だが速いだけで質が低下しては意味がない。
@@ -90,7 +100,7 @@
     <item>
       <title>安正速楽</title>
       <link>https://amor-fati.net/archives/well-done/</link>
-      <pubDate>Mon, 30 Jun 2008 00:00:24 +0900</pubDate>
+      <pubDate>Mon, 30 Jun 2008 00:00:24 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/well-done/</guid>
       <description>ルーチンワークの品質を上げるために ¶ 成長するために必要なことをコンセプトとして提供する。

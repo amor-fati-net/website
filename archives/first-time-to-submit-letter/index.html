@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title>ラグランジュの未定乗数法の極値問題</title>
+    <title>初めてのレター投稿</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,7 +57,7 @@
 <header>
   <div id="page_title">
     <h1>
-      <a href="https://amor-fati.net/archives/lagrange-multipliers-method/">ラグランジュの未定乗数法の極値問題</a>
+      <a href="https://amor-fati.net/archives/first-time-to-submit-letter/">初めてのレター投稿</a>
     </h1>
     <div class="site_name">
 
@@ -76,17 +76,17 @@
         <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="https://amor-fati.net/">ホーム</a></li>
     <li class="breadcrumb-item"><a href="https://amor-fati.net/archives/">Archives</a></li>
-    <li class="breadcrumb-item active" aria-current="page">ラグランジュの未定乗数法の極値問題</li>
+    <li class="breadcrumb-item active" aria-current="page">初めてのレター投稿</li>
         </ol>
 
       </div>
     </nav>
     <div class="text-right" id="page_dates">
 
-      <span class="modified">最終更新日: <span class="date">2014/02/13</span></span>
+      <span class="modified">最終更新日: <span class="date">2019/02/24</span></span>
 
 
-      <span class="published">作成日: <span class="date">2011/06/17</span></span>
+      <span class="published">作成日: <span class="date">2019/02/24</span></span>
 
     </div>
   </div>
@@ -121,9 +121,32 @@
 
     <section class="body">
 
-<p>極値をとることは分かるけれど、それが最大なのか最小なのか。例えば統計力学において、エントロピーが最大になるような確率分布について。統計力学の教科書は、だいたいが極値をとる分布を求めているだけだ。その点で確かに最大になっているかを確かめていない。これでは不十分ではないのか。</p>
-<p>気になる場合は、実際に最大になっているかを確かめればよい。それが一番手っ取り早い確認方法だ。だがわざわざ確認しなくても物理的に考えれば最大となっていることは分かるので、だいたいの教科書では極値をとる分布を求めているだけにとどめている。というのも、エントロピーがその分布で最小になるなんてことはあり得ない（物理的におかしい）。エントロピーは必ずゼロ以上で、つまり最低はゼロだから。そんなわけで、不十分というわけではないだろう ((そういう理由で教科書は最大になっているかをわざわざ確かめていないのだと理解しているなら))</p>
-<p>あとから調べたら『物理のための応用数学』にも同じことが書いてあった。</p>
+<p>Letterにそもそも投稿すらしたことがなく，色々とfull paperとは異なっていたので，Letterに投稿するときに気付いたことをまとめておく．</p>
+<h3 id="文章構成自体が違う">文章構成自体が違う <a class="identifier" href="#%e6%96%87%e7%ab%a0%e6%a7%8b%e6%88%90%e8%87%aa%e4%bd%93%e3%81%8c%e9%81%95%e3%81%86">¶</a></h3>
+<p>Letterは文字数制限がある．full paperには文字数制限はない．この差が本質的に二つを異なるものにしている．電子化が普及した今の時代になぜ文字数制限があるか．それは，Letterを日本語にすると「速報誌」となることからも分かるように，速報性を意識して文字数制限を設けられている<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> ．文字数制限のために，研究内容を全部は詳細に書けない．速報的に伝えたい大切なことは手短に伝えなければいけないのだから，書くべきでもない．全部書きたければfull paperにすべきだ，という話だ．</p>
+<p>内容が込み入っていて，そもそも理解されるために色々な前提知識が必要な場合も，Letterにすることは難しい．しかしLetterにして速報性を出すだけの価値がある場合，どうするのだろうか．</p>
+<h3 id="想定される読者が異なる">想定される読者が異なる <a class="identifier" href="#%e6%83%b3%e5%ae%9a%e3%81%95%e3%82%8c%e3%82%8b%e8%aa%ad%e8%80%85%e3%81%8c%e7%95%b0%e3%81%aa%e3%82%8b">¶</a></h3>
+<p>Letterの想定読者は，Full paperよりも色んな分野でありえる．</p>
+<p>これは今回投稿するLetterがPRLだからというだけで，想定される読者をもっと狭めたPRB Rapidがあるので，Letterに対する一般論ではない．ただこの2つがあるせいで，PRLはよりとしても</p>
+<h3 id="supplimental-material-の書き方">Supplimental Material の書き方 <a class="identifier" href="#supplimental-material-%e3%81%ae%e6%9b%b8%e3%81%8d%e6%96%b9">¶</a></h3>
+<p>Supplimental Material の書き方がどうでもいいのに地味に面倒で困った．</p>
+<p>フォーマットは特に指定されていないみたいなので REVTeXで書く．</p>
+<h4 id="arxivに上げるとき">arXivに上げるとき <a class="identifier" href="#arxiv%e3%81%ab%e4%b8%8a%e3%81%92%e3%82%8b%e3%81%a8%e3%81%8d">¶</a></h4>
+<p>1つのファイルにするので，Letterの最後（<code>\end{document}</code>の直前あたり）に</p>
+<p><code>\input{SupplimentalMaterial.tex}</code></p>
+<p>みたいに書いて，Letterの本文に吸い込ませる．SupplimentalMaterial.tex 自体では，<code>\documentclass[aps]</code>とかのプリアンブルや，<code>\title{TITLE}</code>とか，<code>\author{}</code>とか<code>\affiliation{}</code>をコメントアウトして，</p>
+<p><code>\begin{table*}[t!] {\bf \large Supplimental Material for ``TITLE''} \end{table*} \newpage</code></p>
+<p>を最初に書いておけばよいみたい．こうしておかないと地味に\ref{}とか\cite{}とかが役に立たないという．</p>
+<h4 id="prlに投稿するとき">PRLに投稿するとき <a class="identifier" href="#prl%e3%81%ab%e6%8a%95%e7%a8%bf%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d">¶</a></h4>
+<p>これについてはまだ分からん．</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>いまはpreprintサーバ（arXiv.org とか）があるから，正直言って単なる「速報性」という観点からだけでは意味をなさなくなっているが，まぁ査読された内容であるかそうでないか違いは大きい．&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 
     </section>
   </div>
@@ -144,7 +167,7 @@
       <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="https://amor-fati.net/">ホーム</a></li>
     <li class="breadcrumb-item"><a href="https://amor-fati.net/archives/">Archives</a></li>
-    <li class="breadcrumb-item active" aria-current="page">ラグランジュの未定乗数法の極値問題</li>
+    <li class="breadcrumb-item active" aria-current="page">初めてのレター投稿</li>
       </ol>
 
     </div>

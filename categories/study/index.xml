@@ -8,11 +8,11 @@
     <language>ja-jp</language>
     <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
     <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
-    <lastBuildDate>Mon, 18 Nov 2019 11:40:22 +0900</lastBuildDate><atom:link href="https://amor-fati.net/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Nov 2019 11:40:22 +0000</lastBuildDate><atom:link href="https://amor-fati.net/categories/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ものごとには型がある</title>
       <link>https://amor-fati.net/archives/everything-is-gone/</link>
-      <pubDate>Mon, 18 Nov 2019 11:40:22 +0900</pubDate>
+      <pubDate>Mon, 18 Nov 2019 11:40:22 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/everything-is-gone/</guid>
       <description>一般論はどこでも読めるだろうから、研究について書いてみたい。
@@ -28,9 +28,31 @@
     </item>
     
     <item>
+      <title>初めてのレター投稿</title>
+      <link>https://amor-fati.net/archives/first-time-to-submit-letter/</link>
+      <pubDate>Sun, 24 Feb 2019 15:33:16 +0000</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>https://amor-fati.net/archives/first-time-to-submit-letter/</guid>
+      <description>Letterにそもそも投稿すらしたことがなく，色々とfull paperとは異なっていたので，Letterに投稿するときに気付いたことをまとめておく．
+文章構成自体が違う ¶ Letterは文字数制限がある．full paperには文字数制限はない．この差が本質的に二つを異なるものにしている．電子化が普及した今の時代になぜ文字数制限があるか．それは，Letterを日本語にすると「速報誌」となることからも分かるように，速報性を意識して文字数制限を設けられている1 ．文字数制限のために，研究内容を全部は詳細に書けない．速報的に伝えたい大切なことは手短に伝えなければいけないのだから，書くべきでもない．全部書きたければfull paperにすべきだ，という話だ．
+内容が込み入っていて，そもそも理解されるために色々な前提知識が必要な場合も，Letterにすることは難しい．しかしLetterにして速報性を出すだけの価値がある場合，どうするのだろうか．
+想定される読者が異なる ¶ Letterの想定読者は，Full paperよりも色んな分野でありえる．
+これは今回投稿するLetterがPRLだからというだけで，想定される読者をもっと狭めたPRB Rapidがあるので，Letterに対する一般論ではない．ただこの2つがあるせいで，PRLはよりとしても
+Supplimental Material の書き方 ¶ Supplimental Material の書き方がどうでもいいのに地味に面倒で困った．
+フォーマットは特に指定されていないみたいなので REVTeXで書く．
+arXivに上げるとき ¶ 1つのファイルにするので，Letterの最後（\end{document}の直前あたり）に
+\input{SupplimentalMaterial.tex}
+みたいに書いて，Letterの本文に吸い込ませる．SupplimentalMaterial.tex 自体では，\documentclass[aps]とかのプリアンブルや，\title{TITLE}とか，\author{}とか\affiliation{}をコメントアウトして，
+\begin{table*}[t!] {\bf \large Supplimental Material for ``TITLE&#39;&#39;} \end{table*} \newpage
+を最初に書いておけばよいみたい．こうしておかないと地味に\ref{}とか\cite{}とかが役に立たないという．
+PRLに投稿するとき ¶ これについてはまだ分からん．
+いまはpreprintサーバ（arXiv.org とか）があるから，正直言って単なる「速報性」という観点からだけでは意味をなさなくなっているが，まぁ査読された内容であるかそうでないか違いは大きい．&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
       <title>マグノンの勉強</title>
       <link>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link>
-      <pubDate>Sat, 15 Oct 2011 23:04:49 +0900</pubDate>
+      <pubDate>Sat, 15 Oct 2011 23:04:49 +0000</pubDate>
       <author>webmaster@amor-fati.net (じぇしを)</author>
       <guid>https://amor-fati.net/archives/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid>
       <description>研究について、その日に進んだところをちょっと書いていこう。
