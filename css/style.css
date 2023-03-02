@@ -138,33 +138,6 @@ article p {
 
 
 
-
-@media (min-width: 767px) {
-	body {
-		margin-top: 100px;
-	}
-
-	section:nth-of-type(odd) h2	{
-		background: url("/img/h2-e.png") no-repeat right top;
-	}
-
-	section:nth-of-type(even) h2	{
-		background: url("/img/h2-o.png") no-repeat right 23px;
-	}
-}
-
-@media (max-width: 767px) {
-    h2	{
-        font-size: 26px;
-    }
-
-    div.container div.container {
-        padding-left: 0;
-        padding-right: 0;
-    }
-
-}
-
 .breadcrumb {
   padding: 0;
   list-style: none;
@@ -224,41 +197,6 @@ article header p {
     line-height: 2em;
     margin: 0 30px 10px;
 }
-
-/* --------------- */
-
-@media (min-width: 767px) {
-	.page_description {
-		text-align: center;
-	}
-	
-	.page_description span:before {
-		content: "[";
-	}
-
-	.page_description span:after {
-		content: "]";
-	}
-}
-
-@media (max-width: 767px) {
-	main ul	{
-		padding-left: 30px;
-	}
-
-	main ol	{
-		margin: 0;
-		padding: 0;
-	}
-	main ol li	{
-		margin-bottom: 10px;
-	}
-
-	table	{
-		margin: 0;
-	}
-}
-
 
 header#paper_info {
     margin: 20px 0 10px;
@@ -344,6 +282,104 @@ section.body {
     padding: 5px 10px;
 }
 
+article p em {
+  font-style: normal;
+  text-decoration-style: wavy;
+  text-underline-offset: 0.15em;
+  text-decoration-line: underline;
+}
+
 .text-right {
     text-align: right;
 }
+
+/* --------------- */
+
+@media (min-width: 767px) {
+	body {
+		margin-top: 100px;
+	}
+
+	.page_description {
+		text-align: center;
+	}
+	
+	.page_description span:before {
+		content: "[";
+	}
+
+	.page_description span:after {
+		content: "]";
+	}
+}
+
+@media (max-width: 767px) {
+    h2	{
+        font-size: 26px;
+    }
+
+    div.container {
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    main#page_content {
+        margin-left: 0;
+    }
+
+    article {
+        padding: 0;
+    }
+
+    section.body {
+        padding: 0;
+    }
+
+    span.modified,
+    span.published {
+        display: block;
+    }
+
+    ol.breadcrumb {
+        display: block;
+    }
+
+    li.breadcrumb-item {
+        display: block;
+    }
+
+    li.breadcrumb-item+li.breadcrumb-item {
+        padding: 0;
+    }
+
+    li.breadcrumb-item+li.breadcrumb-item::before {
+        content: ">";
+    }
+
+    footer span.site_name {
+        display: block;
+    }
+
+    time {
+        display: block;
+    }
+
+	main ul	{
+		padding-left: 30px;
+	}
+
+	main ol	{
+		margin: 0;
+		padding: 0;
+	}
+	main ol li	{
+		margin-bottom: 10px;
+	}
+
+	table	{
+		margin: 0;
+	}
+}
+
+
+
