@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>未分類 on Something like an oasis in this dry world</title>
+    <link>http://amor-fati.net/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/</link>
+    <description>Recent content in 未分類 on Something like an oasis in this dry world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <managingEditor>webmaster@amor-fati.net (じぇしを)</managingEditor>
+    <webMaster>webmaster@amor-fati.net (じぇしを)</webMaster>
+    <lastBuildDate>Fri, 14 Oct 2011 00:38:17 +0900</lastBuildDate><atom:link href="http://amor-fati.net/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>投稿テスト</title>
+      <link>http://amor-fati.net/archives/post-testing/</link>
+      <pubDate>Fri, 14 Oct 2011 00:38:17 +0900</pubDate>
+      <author>webmaster@amor-fati.net (じぇしを)</author>
+      <guid>http://amor-fati.net/archives/post-testing/</guid>
+      <description>久々のwordpressです． 投稿テストしてみます．
+改行はどう処理されるのか． テストしてみた．結果は…
+Enterだけだと別のpになる． Shift+Enterならbrするのか！なるほど！これは素晴らしい． 数式がきれいに表示されるプラグインあるかな． あってほしいな．
+探したら幾つか見つかった． とりあえず一番最近更新された LaTeX for Wordpress を入れてみた．
+とりあえずインラインで二次関数 ( f(x) = a x^2 + b x + c ) を書いてみる．
+で，ちょっと込み入った式として，ガンマ関数はこうなるらしい． 式を１行分で表示させる．
+[ \Gamma(z)=\int^{\infty}_{0}t^{z-1}e^{-t},dt\qquad(\mathcal{R} {z}&amp;gt;0) ]
+素晴らしい！けど，数式が文字の大きさ的に小さい． これはCSSで何とかなるハズなので，問題ないだろうと思う．
+見た目について色々と対処を試みた結果… まずブラウザによって表示される大きさが異なることが判明． Macの Chrome, Safari では小さく見えて，Android のデフォルトブラウザ，LinuxのChrome, Firefox 7.0 では丁度よい大きさ． Winの IE8 ではちょうど良く表示されるが，単純にフォントがダサい．
+まぁ大した問題ではないと，あまり気にしないことにしよう．</description>
+    </item>
+    
+  </channel>
+</rss>
